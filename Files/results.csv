@@ -1,6 +1,5 @@
-No,PATWWW/AutoDoc,Orbit,IDFromSource,Title,Company/Institute,Source/Patent No,"Publ.
-Date",Category,crop protection,Сomments,Keywords,Abstracts,Patent Asset Index Data,Categories,Justifications
-1,KR2022124635,KR2022124635,WPI/2022-B9499U,"Mosquito repellent device comprises first repellent discharge unit for emitting first repellent, and first repellent control unit for controlling release rate of first repellent, namely icaridin",KOREA NAT PARK SERVICE,KR2022124635 A,20220914,,insecticide,,,"KR 2022124635 A
+crop protection,Сomments,Keywords,Abstracts,Categories,Justifications
+insecticide,,,"KR 2022124635 A
    NOVELTY - Mosquito repellent device (10) comprises a first repellent, and a first repellent discharge unit (100) for emitting the first repellent; and a first repellent control unit (200) for controlling the release rate of first repellent which is icaridin. The mosquito repellent device further comprises a second repellent discharge unit (300) for emitting a second repellent; and a second repellent control unit (400) for controlling the release rate of the second repellent, and has a space to accommodate the second repellent discharge unit disposed inside the second repellent control unit, where the second repellent is lemongrass. The mosquito repellent device further comprises a third repellent discharge unit (500) for emitting third repellent; and a third repellent control unit (600) for controlling release rate of third repellent, and has a space to accommodate third repellent discharge unit disposed inside the third repellent control unit, where the third repellent is vanillin. 
    USE - Used as mosquito repellent device.
    ADVANTAGE - The mosquito repellent device maintains icaridin which is a mosquito-repellent component around the user's body for a long time as it is blocked from external heat or UV rays and can be stably preserved; has excellent continuous volatilization property and excellent mosquito repellent effect; and is easy to carry and use since the mosquito repellent device can be fixed to the user's clothes or belongings through the fixing part, and prevents the occurrence of skin troubles since the mosquito repellent component does not come into direct contact with the skin. 
@@ -11,21 +10,8 @@ Date",Category,crop protection,Сomments,Keywords,Abstracts,Patent Asset Index D
      300- Second repellent discharge unit
      400- Second repellent control unit
      500- Third repellent discharge unit
-     600- Third repellent control unit","Status as of : 08.12.2022
-Competitive impact : 0.056
-Technology relevance : 0.995
-Market coverage : 0.056
-Current owners : KOREA NATIONAL PARK SERVICE
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""","The patent describes a mosquito repellent device using icaridin, lemongrass, and vanillin as active ingredients. This clearly falls under the category of insecticides."
-2,DE202022104072,DE202022104072,WPI/2022-B5903A,"New substituted pyridine-based compound useful as antifungal agent for treating fungal infections caused by fungi i.e. Aspergillus, Candida albicans and Cryptococcus in human","NARAYANASAMY S S
-PANUGANTI U
-PURMA A R
-REDDY G N K",DE202022104072 U1,20220908,,fungicide,,,"DE 202022104072 U1
+     600- Third repellent control unit","""1""","The patent describes a mosquito repellent device using icaridin, lemongrass, and vanillin as active ingredients. This clearly falls under the category of insecticides."
+fungicide,,,"DE 202022104072 U1
    NOVELTY - Substituted pyridine-based compound (I), is new. 
    DETAILED DESCRIPTION - Substituted pyridine-based compound of formula (I), is new.
        R1  = H, amino or halo (F, Cl, Br or I); 
@@ -39,34 +25,14 @@ REDDY G N K",DE202022104072 U1,20220908,,fungicide,,,"DE 202022104072 U1
    ACTIVITY - Fungicide. Test details are described but no results given. 
    MECHANISM OF ACTION - Glycine transporter inhibitor; 5-Hydroxytryptamine receptor.
    USE - (I) is useful as antifungal agent for treating fungal infections caused by fungi i.e. Aspergillus , Candida albicans and Cryptococcus in human.
-   ADVANTAGE - (I) has excellent physicochemical properties, water solubility, metabolic stability and antifungal activity; can be administered orally, intravenously or subcutaneously; and is safe.","Status as of : 08.12.2022
-Competitive impact : 
-Technology relevance : 
-Market coverage : 
-Current owners : NARAYANASAMY SIVA SUBRAMANIAN; PANUGANTI USHASREE; PURMA ARAVINDA REDDY; REDDY GODUMALA NAVEEN KUMAR
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : DE
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""3""","The patent text explicitly states that the compound (I) is a fungicide. It describes its activity as an antifungal agent and lists specific fungi it is effective against (Aspergillus, Candida albicans, and Cryptococcus)."
-3,US20220279789,US20220279789,WPI/2022-B5644W,Fungicidal composition used to treat plant pathogen in soybean plant comprises mefentrifluconazole and metalaxyl,SUMITOMO CHEM CO LTD,US20220279789 A1,20220908,,fungicide,,,"US 20220279789 A1
+   ADVANTAGE - (I) has excellent physicochemical properties, water solubility, metabolic stability and antifungal activity; can be administered orally, intravenously or subcutaneously; and is safe.","""3""","The patent text explicitly states that the compound (I) is a fungicide. It describes its activity as an antifungal agent and lists specific fungi it is effective against (Aspergillus, Candida albicans, and Cryptococcus)."
+fungicide,,,"US 20220279789 A1
    NOVELTY - Fungicidal composition comprises mefentrifluconazole and metalaxyl at a weight ratio of 1:0.1-1:10.
    ACTIVITY - Fungicide; Plant Protectant. The fungicidal activity of mefentrifluconazole was tested against Phakopsora pachyrhizi in soybean plant. The result showed that soybean treated with 500 g/hectare mefentrifluconazole exhibited fresh weight of 7.17 mg/plant. 
    MECHANISM OF ACTION - None given.
    USE - The composition is useful for: protecting determinate soybean from damage by a plant pathogen e.g. Ascomycota, Basidiomycota, Blasocladiomycota, Chytridiomycota, Mucoromycota and/or Olpidiomycota . 
-   ADVANTAGE - The composition provides superior safety to plants.","Status as of : 08.12.2022
-Competitive impact : 0.849
-Technology relevance : 0.692
-Market coverage : 1.227
-Current owners : SUMITOMO CHEMICAL COMPANY LIMITED; Sumitomo Chemical (w/o Dongwoo Fine-Chem)
-Patent rights : 
-    Active + Granted : US
-    Active + Not Granted : CA; JP
-    Not Active + Granted : 
-    Not Active + Not Granted : WO
-","""3""",The patent text explicitly states that the composition is a fungicide and lists its activity against plant pathogens. It is also described as useful for protecting soybean from damage by fungi.
-4,KR2441489,KR2441489,WPI/2022-B5885X,"Air dome used to produce multifunctional hypochlorous acid water, comprises e.g. electrolysis tank for producing hypochlorous acid water, mixing tank for mixing amino acid, buffer and bactericidal pH stabilizer, hypochlorous acid and buffer",ECOTECH CO LTD,KR2441489 B1,20220908,,herbicide,,,"KR 2441489 B1
+   ADVANTAGE - The composition provides superior safety to plants.","""3""",The patent text explicitly states that the composition is a fungicide and lists its activity against plant pathogens. It is also described as useful for protecting soybean from damage by fungi.
+herbicide,,,"KR 2441489 B1
    NOVELTY - Air dome comprises an electrolysis tank (100) for producing hypochlorous acid water, a mixing tank for mixing 1-4 wt.% amino acid, buffer and 0.1-2 wt.% bactericidal pH stabilizer, 95-98 wt.% hypochlorous acid, 0.02-0.2 wt.% buffer at 25° C; and a multifunctional hypochlorous acid water production device (10) for promoting plant growth, providing hypochlorous acid water for sterilization of the electrolysis tank or hypochlorous acid water for plant growth promotion of the mixing tank to the air dome. The electrolysis tank is provided with a diaphragm-free electrolysis tank having an electrode (110); an inlet line (130) connected to the electrolysis tank through which water containing an electrolyte is introduced; an outflow line through which hypochlorous acid water generated is connected to the electrolysis tank; a power supply unit for applying power to the electrode; and an electrolysis control unit. 
    USE - The air dome is useful to produce multifunctional hypochlorous acid water (claimed).
    ADVANTAGE - The air dome helps to create clean environment, improves exercise effect and records during exercise by creating comfortable environment for those who are active inside air dome, and promotes growth by reducing stress during plant growth by removing harmful bacteria that inhibit plant growth in plants grown inside air dome. 
@@ -75,20 +41,8 @@ Patent rights :
      100- Electrolysis tank
      110- Electrode
      120- Diaphragm-free electrolysis tank
-     130- Inlet line","Status as of : 08.12.2022
-Competitive impact : 0.08
-Technology relevance : 0.993
-Market coverage : 0.081
-Current owners : ECO-TECH COMPANY, INCORPORATED
-Patent rights : 
-    Active + Granted : KR
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""2"", ""3""","The patent describes a system for producing hypochlorous acid water, which has both herbicidal and fungicidal properties.  The text states that the system promotes plant growth by removing harmful bacteria that inhibit growth, indicating a fungicidal effect. Additionally, it mentions that the system can be used to sterilize the electrolysis tank, suggesting a potential for use as a herbicide."
-5,US20220279782,US20220279782,WPI/2022-B5093K,"Immobilizing insects by spray or aerosol dispensing system having container with liquefied petroleum gas composition disposed in it, involves spraying pest control composition consisting of butane, propane, and isobutane",JOHNSON + SON INC S C,"US20220279782 A1
-WO2022187327 A1","20220908
-20220909",,insecticide,,,"US 20220279782 A1
+     130- Inlet line","""2"", ""3""","The patent describes a system for producing hypochlorous acid water, which has both herbicidal and fungicidal properties.  The text states that the system promotes plant growth by removing harmful bacteria that inhibit growth, indicating a fungicidal effect. Additionally, it mentions that the system can be used to sterilize the electrolysis tank, suggesting a potential for use as a herbicide."
+insecticide,,,"US 20220279782 A1
    NOVELTY - Immobilizing insects by a spray dispensing system, involves spraying a pest control composition consisting of butane, propane, and isobutane, where the pest control composition is sprayed for least two seconds at a spray rate of 1.8-2.6 g/s and achieves a temperature of less than -20℃ at least 18 inches from an exit orifice of the dispensing system. 
    DETAILED DESCRIPTION - INDEPENDENT CLAIMS are included for: 1. an aerosol dispensing system (20) comprising a container (24) having a liquefied petroleum gas (LPG) composition disposed in it; and an overcap assembly (26) having an actuator (46) and an exit orifice, where overcap assembly is coupled to the container; and
     2. a composition consisting of 70-80 vol.% isobutane, 20-30 vol.% propane, and 0.3-20 vol.% butane.
@@ -103,118 +57,46 @@ WO2022187327 A1","20220908
      26- Overcap assembly
      30- Circular base
      46- Actuator
-     48- Nozzle extension","Status as of : 08.12.2022
-Competitive impact : 2.977
-Technology relevance : 1.062
-Market coverage : 2.803
-Current owners : S. C. JOHNSON & SON, INC.
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : US; WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""","The patent describes a system for immobilizing insects using a liquefied petroleum gas (LPG) composition.  While the mechanism isn't detailed, the intended use is clearly pest control, placing it within the insecticide category."
-6,KR2440617,KR2440617,WPI/2022-B57913,"Diffuse smoke screen insecticide comprises mixture of smoke film component and insecticide component, citric acid, and cyclodextrin, useful in simultaneous inspection and quarantine of sewage pipes by putting it inside sewer pipe",SEUNG TOP CO LTD,KR2440617 B1,20220906,,insecticide,,,"KR 2440617 B1
+     48- Nozzle extension","""1""","The patent describes a system for immobilizing insects using a liquefied petroleum gas (LPG) composition.  While the mechanism isn't detailed, the intended use is clearly pest control, placing it within the insecticide category."
+insecticide,,,"KR 2440617 B1
    NOVELTY - Diffuse smoke screen insecticide comprises a mixture of a smoke film component and 5-15 pts. wt. insecticide component, and further comprises 5-20 pts. wt. citric acid, and 2-10 pts. wt. cyclodextrin. The smoke film comprises 15-30 wt.% palm oil or biodiesel, 25-35 wt.% glycerin, 30-50 wt.% water, 1-3 wt.% surfactant, and 3-4.5 wt.% fragrance. The insecticide comprises 25-35 wt.% permethrin, 10-40 wt.% tridecyl alcohol, 5-20 wt.% isoprime, 5-20 wt.% n-methyl pyrrolidone, 5-20 wt.% dibutylated hydroxytoluene, and 10-30 wt.% polyoxyethylene dodecyl monoether. 
    DETAILED DESCRIPTION - An INDEPENDENT CLAIM is also included for simultaneous inspection and quarantine of sewage pipes, comprising (a) blocking the sewage pipe with air filling inside the upstream sewer pipe in the inspection section of the sewage pipe, but installing an upstream side air packer having a water pipe that automatically opens and closes according to the flow of sewage; (b) blocking the sewage pipe with air filling inside the downstream side sewage pipe, installing the downstream side air packer having a water pipe that automatically opens and closes according to the flow of sewage; (c) installing the smoke film supply device on the upper part of the manhole installed in the inspection section of the sewage pipe; and (d) injecting the diffuse smoke screen insecticide into the smoke screen supply device and operating the smoke screen supply device to supply the smoke screen to the inspection section of the sewage pipe while simultaneously performing the stigma inspection and quarantine of the sewage pipe.
    ACTIVITY - Insecticide. Test details are described but no results given. 
    MECHANISM OF ACTION - None given.
    USE - The smoke screen insecticide is useful in simultaneous inspection and quarantine of sewage pipes by putting it inside sewer pipe (claimed), and cracks of sewage pipes.
-   ADVANTAGE - The diffuse smoke screen insecticide has insecticidal control effect in sewage pipe, can be spreads evenly in sewer pipe, and prevents pests and their eggs.","Status as of : 08.12.2022
-Competitive impact : 0.08
-Technology relevance : 0.991
-Market coverage : 0.081
-Current owners : SEUNG TOP
-Patent rights : 
-    Active + Granted : KR
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""",The patent clearly describes a product called a 'diffuse smoke screen insecticide' with a detailed composition listing insecticide components like permethrin. It also states the product is useful for 'insecticidal control effect in sewage pipe'.
-7,KR2439956,KR2439956,WPI/2022-B5797S,"Preparing bio-pesticides by preparing soybean oil, natural emulsifier, purified water and plant extract, mixing soybean oil, purified water, and natural emulsifier, processing mixture into microemulsion, mixing plant extract with microemulsion, and formulating liquid pesticide",HANS FARM CO LTD,KR2439956 B1,20220905,,fungicide,,,"KR 2439956 B1
+   ADVANTAGE - The diffuse smoke screen insecticide has insecticidal control effect in sewage pipe, can be spreads evenly in sewer pipe, and prevents pests and their eggs.","""1""",The patent clearly describes a product called a 'diffuse smoke screen insecticide' with a detailed composition listing insecticide components like permethrin. It also states the product is useful for 'insecticidal control effect in sewage pipe'.
+fungicide,,,"KR 2439956 B1
    NOVELTY - Method for preparing bio-pesticides involves (a) preparing soybean oil, natural emulsifier, purified water and plant extract, (b) setting a predetermined mixing ratio for the soybean oil, purified water and natural emulsifier, (c) obtaining a mixture by mixing the soybean oil, purified water, and natural emulsifier in a predetermined temperature range according to the set mixing ratio, (d) processing the obtained mixture into a microemulsion having a nano-sized particle size through a first nano- mixing process, (e) adding to and mixing the plant extract at room temperature in a predetermined ratio with the processed microemulsion, where the plant extract is designed so that several plant extracts are customized according to the target plant and control target using a database (DB) built in advance, and (f) formulating a liquid pesticide having a particle diameter of 20-50 nm by performing a secondary nano- mixing process on the mixture obtained by adding the plant extract. 
    ACTIVITY - Pesticide; Fungicide. No biological data given. 
    MECHANISM OF ACTION - None given.
    USE - The method is useful for preparing bio-pesticides against control target such as pests, pathogens, or fungi (all claimed). 
-   ADVANTAGE - The method prepares bio-pesticides in nano-size without requiring expensive production facilities and high-level skill.","Status as of : 08.12.2022
-Competitive impact : 0.08
-Technology relevance : 0.995
-Market coverage : 0.081
-Current owners : HANSFARM
-Patent rights : 
-    Active + Granted : KR
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""3""",The patent explicitly states that the method is useful for preparing bio-pesticides against control targets such as \
-8,KR2022122286,KR2022122286,WPI/2022-B3880F,"Composition useful in undersink type dual dispenser for household, comprises natural materials containing grapefruit seed extract",UNIV DONG EUI IND ACAD COOP FOUND,KR2022122286 A,20220902,,fungicide,,,"KR 2022122286 A
+   ADVANTAGE - The method prepares bio-pesticides in nano-size without requiring expensive production facilities and high-level skill.","""3""",The patent explicitly states that the method is useful for preparing bio-pesticides against control targets such as \
+fungicide,,,"KR 2022122286 A
    NOVELTY - Composition comprises natural materials containing grapefruit seed extract. The composition further comprises glycine, sodium bicarbonate and purified water.
    DETAILED DESCRIPTION - An INDEPENDENT CLAIM is also included for undersink type dual dispenser
    USE - The composition is useful in undersink type dual dispenser for household (claimed).
-   ADVANTAGE - The composition has an excellent antibacterial and sterilization effect against bacteria and fungi, and excellent antioxidant effect; and is non-toxic to the human body even when consumed excessively.","Status as of : 08.12.2022
-Competitive impact : 0.063
-Technology relevance : 1.12
-Market coverage : 0.056
-Current owners : DONG-EUI UNIVERSITY
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""3""",The text states that the composition has an excellent antibacterial and sterilization effect against bacteria and fungi.
-9,KR2022122094,KR2022122094,WPI/2022-B3871T,"Herbicide composition useful for controlling weeds in corn fields, preferably wild hulls or finger-grasses, comprises oryzaline and sulfentrazone",GUANGZHOU BAIYUN SHIJING XINGCHEN LTD,KR2022122094 A,20220902,,herbicide,,,"KR 2022122094 A
+   ADVANTAGE - The composition has an excellent antibacterial and sterilization effect against bacteria and fungi, and excellent antioxidant effect; and is non-toxic to the human body even when consumed excessively.","""3""",The text states that the composition has an excellent antibacterial and sterilization effect against bacteria and fungi.
+herbicide,,,"KR 2022122094 A
    NOVELTY - Herbicide composition comprises oryzaline and sulfentrazone in weight ratio of 8:1-1:1.
    DETAILED DESCRIPTION - An INDEPENDENT CLAIM is also included for herbicide comprising 2-96 wt.% herbicidal composition, and remaining amount of carriers and adjuvants.
    ACTIVITY - Herbicide. No biological data given. 
    MECHANISM OF ACTION - None given.
    USE - The composition is useful for controlling weeds in corn fields, preferably wild hulls or finger-grasses.
-   ADVANTAGE - The composition has high efficiency and is economical.","Status as of : 08.12.2022
-Competitive impact : 0.056
-Technology relevance : 0.995
-Market coverage : 0.056
-Current owners : GUANGZHOU BAIYUN SHIJING XINGCHEN
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""2""",The patent explicitly states that the invention is a 'herbicide composition' and describes its use for controlling weeds in corn fields.
-10,KR2439303,KR2439303,WPI/2022-B38333,"Composition useful as control agent i.e. oil spray, emulsifiable concentrate, aqueous powder, fluid, granule, aerosol and fumigant for controlling bee mites, comprises derris extract, fir leaf extract and chamomile extract",BIOBEE CO LTD,KR2439303 B1,20220902,,insecticide,,,"KR 2439303 B1
+   ADVANTAGE - The composition has high efficiency and is economical.","""2""",The patent explicitly states that the invention is a 'herbicide composition' and describes its use for controlling weeds in corn fields.
+insecticide,,,"KR 2439303 B1
    NOVELTY - Composition comprises derris extract, fir leaf extract and chamomile extract in a weight ratio of 10-20:0.5-3:0.5-3. 
    ACTIVITY - Acaricide; Insecticide. Test details are described but no results given.
    MECHANISM OF ACTION - None given.
    USE - The composition is useful as control agent (oil spray, emulsifiable concentrate, aqueous powder, fluid, granule, aerosol and fumigant) for controlling bee mites (all claimed). 
-   ADVANTAGE - The composition improves survival rate of bees due to increased safety, and protects bees.","Status as of : 08.12.2022
-Competitive impact : 0.08
-Technology relevance : 0.995
-Market coverage : 0.081
-Current owners : BIOBEE
-Patent rights : 
-    Active + Granted : KR
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""",The patent text explicitly states that the composition is an acaricide and insecticide. These terms fall under the category of insecticides.
-11,WO2022181491,WO2022181491,WPI/2022-B2667C,"Imparting antibacterial properties useful e.g. for producing antimicrobial material, involves contacting antibacterial-imparting agent containing water and antibacterial ions with material containing macromolecule having functional group",PANASONIC INTELLECTUAL PROPERTY MANAGEME,WO2022181491 A1,20220901,,fungicide,,,"WO 2022181491 A1
+   ADVANTAGE - The composition improves survival rate of bees due to increased safety, and protects bees.","""1""",The patent text explicitly states that the composition is an acaricide and insecticide. These terms fall under the category of insecticides.
+fungicide,,,"WO 2022181491 A1
    NOVELTY - Method for imparting antibacterial properties involves bringing an antibacterial-imparting agent containing water and antibacterial ions in contact with a material containing a macromolecule having a functional group capable of binding with the antibacterial ions. 
    DETAILED DESCRIPTION - INDEPENDENT CLAIMS are included for the following:
       antibacterial agent comprising water and antibacterial ion; and 
       device comprising material containing a polymer having a functional group capable of bonding with an antibacterial ion and supply unit for supplying the antibacterial-imparting agent containing water and antibacterial ion to the surface of the material. 
    USE - The method or antibacterial agent is useful for imparting antibacterial properties which is used for restoring antibacterial properties of a material and producing an antimicrobial material (all claimed) which is used in a plumbing product used in bathrooms and toilets, a coating material for floor, an air conditioner and an electric appliance e.g. washing machine.
-   ADVANTAGE - The method enables antibacterial properties to be easily imparted to a material. The method recovers antibacterial properties easily. The method produces antimicrobial material easily.","Status as of : 08.12.2022
-Competitive impact : 2.285
-Technology relevance : 0.815
-Market coverage : 2.803
-Current owners : PANASONIC CORPORATION
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""0"", ""3""","While the patent focuses on imparting antibacterial properties, it also mentions applications in restoring antibacterial properties and producing antimicrobial materials. This suggests a broader scope beyond traditional insecticides, herbicides, or fungicides. The use cases, such as coatings for floors and air conditioners, align more with antimicrobial applications aimed at preventing the growth of bacteria and other microorganisms."
-12,WO2022180233,WO2022180233,WPI/2022-B24372,"Repellent composition useful e.g. for controlling infestations of animals by external parasites or pathogenic microorganisms, contains germacrene D, tannins, eugenol, eugenol acetate, ascorbic acid, trans-anethole, thujone and caffeic acid",,"WO2022180233 A1
-FR3120187 A1","20220901
-20220902",,fungicide,,,"WO 2022180233 A1
+   ADVANTAGE - The method enables antibacterial properties to be easily imparted to a material. The method recovers antibacterial properties easily. The method produces antimicrobial material easily.","""0"", ""3""","While the patent focuses on imparting antibacterial properties, it also mentions applications in restoring antibacterial properties and producing antimicrobial materials. This suggests a broader scope beyond traditional insecticides, herbicides, or fungicides. The use cases, such as coatings for floors and air conditioners, align more with antimicrobial applications aimed at preventing the growth of bacteria and other microorganisms."
+fungicide,,,"WO 2022180233 A1
    NOVELTY - Repellent composition comprises natural ingredients including at least 0.2 wt.% germacrene, preferably germacrene D, at least 5 wt.% tannins, at least 1 wt.% phenolic acid(s), other than caffeic acid, chosen from 3-caffeoylquinic acid, 3-p-coumaroylquinic acid, 4-p-coumaroylic acid and their mixtures, at least 55 wt.% eugenol, at least 2 wt.% eugenol acetate, at least 0.1 wt.% ascorbic acid, at least 0.1 wt.% trans-anethole, at least 0.1 wt.% thujone and at least 0.1 wt.% caffeic acid, relative to the total weight of solids of the composition. 
    DETAILED DESCRIPTION - INDEPENDENT CLAIMS are included for the following:
       porous substrate impregnated with the above-mentioned composition, where the substrate is constituted by a plant and/or mineral material; 
@@ -223,35 +105,15 @@ FR3120187 A1","20220901
    ACTIVITY - Antiparasitic; Antimicrobial; Insect Repellent. Test details are described but no results given.
    MECHANISM OF ACTION - None given.
    USE - The repellent composition is useful for controlling infestations of animals, preferably sheep and cattle, by external parasites and/or pathogenic microorganisms, treating air, water or surface of non-living material, for diapers and animal litter, in decontamination treatment and as an insect repellent (all claimed) and sanitizing liquid. 
-   ADVANTAGE - The repellent composition is easily administered or easy to apply, fights effectively and simultaneously against the various parasites that infest the animal, and is non-toxic and environmentally-friendly.","Status as of : 08.12.2022
-Competitive impact : 2.783
-Technology relevance : 0.993
-Market coverage : 2.803
-Current owners : 
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : FR; WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1"", ""3""","The patent describes a repellent composition with antiparasitic and antimicrobial activity. It is explicitly stated to be useful for controlling infestations of animals by external parasites, placing it in the Insecticide category. Additionally, the mention of antimicrobial activity suggests fungicidal properties, leading to the classification under Fungicides."
-13,KR2022121572,KR2022121572,WPI/2022-B2388H,"Composition useful for relieving and controlling seaweed disease including red seaweed disease, olpidiopsis disease, green spot disease, and diatomaceous disease, comprises hydrogen peroxide",NAT FISHERY PROD QUALITY MANAGEMENT SERV,KR2022121572 A,20220901,,fungicide,,,"KR 2022121572 A
+   ADVANTAGE - The repellent composition is easily administered or easy to apply, fights effectively and simultaneously against the various parasites that infest the animal, and is non-toxic and environmentally-friendly.","""1"", ""3""","The patent describes a repellent composition with antiparasitic and antimicrobial activity. It is explicitly stated to be useful for controlling infestations of animals by external parasites, placing it in the Insecticide category. Additionally, the mention of antimicrobial activity suggests fungicidal properties, leading to the classification under Fungicides."
+fungicide,,,"KR 2022121572 A
    NOVELTY - Composition comprises hydrogen peroxide. 
    DETAILED DESCRIPTION - An INDEPENDENT CLAIM is also included for relieving seaweed disease, comprising immersing a medicinal bath composition containing hydrogen peroxide in Pythium chondricola . 
    ACTIVITY - Fungicide. Test details are described but no results given. 
    MECHANISM OF ACTION - None given.
    USE - The composition is useful for relieving and controlling seaweed disease including red seaweed disease, olpidiopsis disease, green spot disease, and diatomaceous disease (all claimed). 
-   ADVANTAGE - The composition excellent is safe, has no side effects, replaces illegally used inorganic acids, and prevents damaging laver fronds within short period of time.","Status as of : 08.12.2022
-Competitive impact : 0.056
-Technology relevance : 0.995
-Market coverage : 0.056
-Current owners : NAT FISHERY PRODUCTS QUALITY MANAGEMENT SERVICE
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""3""",The patent specifically mentions the composition's activity as a fungicide and its use for relieving and controlling seaweed diseases caused by various fungal pathogens like *Pythium chondricola*.
-14,WO2022180405,WO2022180405,WPI/2022-B2300G,"Formulation used as agrochemical product, cosmetic product, household product, laundry product, and vaccine or veterinary product, comprises active substance together with dispersible exine shell of naturally occurring spore or pollen grain",SPOROMEX LTD,WO2022180405 A1,20220901,,fungicide,,,"WO 2022180405 A1
+   ADVANTAGE - The composition excellent is safe, has no side effects, replaces illegally used inorganic acids, and prevents damaging laver fronds within short period of time.","""3""",The patent specifically mentions the composition's activity as a fungicide and its use for relieving and controlling seaweed diseases caused by various fungal pathogens like *Pythium chondricola*.
+fungicide,,,"WO 2022180405 A1
    NOVELTY - Formulation comprises at least one active substance together with a dispersible exine shell of a naturally occurring spore or pollen grain, where the dispersible exine shell is dispersible in solution, and the active substance is not an immunocontraceptive. 
    DETAILED DESCRIPTION - INDEPENDENT CLAIMS are also included for: 
       preparing the dispersible exine shell, involving isolating a dispersible exine shell from a naturally occurring spore by treating the spore with an aqueous non-acidic treatment with or without a catalyst; 
@@ -261,18 +123,8 @@ Patent rights :
    ACTIVITY - Antibacterial; Antialgal; Fungicide; Protozoacide; Virucide. 
    MECHANISM OF ACTION - Vaccine.
    USE - The formulation is useful: as agrochemical product, cosmetic product, household product, toiletry product, laundry product, diagnostic, pharmaceutical, vaccine or veterinary product (all preferred), beverage product, food product, dietetic (which includes nutraceutical) product, confectionery or chewing gum product; as agrochemical product, cosmetic product, household product, toiletry product, laundry product, diagnostic, pharmaceutical, vaccine or veterinary product; and as a beverage product, a food product, a dietetic (which includes nutraceutical) product, a confectionery or chewing gum product. The dispersible exine shell is useful: in method of surgery, therapy, prevention or diagnosis practised on a living plant, human or animal body; as a protection, and/or delivery and/or removal vehicle for one or more active substances; as an antioxidant for an active substance; in the manufacture of a medicament for the protection and/or delivery of an agrochemical, pharmaceutically or veterinary active substance or a diagnostic agent to a human or animal patient; in the removal of an active substance or animal bodily fluids or human bodily fluids; in the removal of an active substance from solutions and emulsions; in the removal of pollutants and contaminants; in the manufacture of a formulation for the protection and/or delivery of an active substance to a living organism; and in the manufacture of a formulation for the protection and/or delivery of an active substance to a non living material (all claimed). No biological data given. 
-   ADVANTAGE - The formulation falls below the meniscus without agitation whereas exine microcapsules extracted under reflex conditions (greater than 85° C) and/or multi-pot conditions did not disperse within this timeframe.","Status as of : 08.12.2022
-Competitive impact : 2.779
-Technology relevance : 0.992
-Market coverage : 2.803
-Current owners : SPOROMEX
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""3""",The patent text explicitly mentions \
-15,WO2022180626,WO2022180626,WPI/2022-B24646,"Composition useful for controlling weed e.g. Setaria viridis, Digitaria sanguinalis, Solanum nigrum and Amaranthus blitoides, comprises imidazolinone-based acetolactate synthase inhibitor as herbicide and solvent of substituted phenyls",ADAMA AGAN LTD,WO2022180626 A1,20220901,,herbicide,,,"WO 2022180626 A1
+   ADVANTAGE - The formulation falls below the meniscus without agitation whereas exine microcapsules extracted under reflex conditions (greater than 85° C) and/or multi-pot conditions did not disperse within this timeframe.","""3""",The patent text explicitly mentions \
+herbicide,,,"WO 2022180626 A1
    NOVELTY - Composition comprises an imidazolinone-based acetolactate synthase (ALS) inhibitor as a herbicide, and a solvent of substituted phenyl compounds (I).
    DETAILED DESCRIPTION - Composition comprises an imidazolinone-based acetolactate synthase (ALS) inhibitor as a herbicide, and a solvent of substituted phenyl compounds of formula (I).
        R1  = 1-4 substituents comprising (1-6C)alkylene-OH, O-(1-6C )alkylene-OH, (1-6C)alkyl or halo, preferably methylene-OH, ethylene-OH, or oxyethylene-OH and the other R1, when present, is methyl, ethyl, F, Cl, or Br.
@@ -282,102 +134,40 @@ Patent rights :
    ACTIVITY - Herbicide.
    MECHANISM OF ACTION - Acetolactate synthase (ALS) inhibitor; Very long chain fatty acid (VLCFA) inhibitor; Protoporphyrinogen oxidase (PPO) inhibitor.
    USE - The composition is useful for controlling weed, where the weed is Setaria viridis , Amaranthus blitoides , Amaranthus retroflexus , Digitaria sanguinalis , Solanum nigrum , Conyza bonariensis , Chenopodium album , Echinochloa colonum or Xanthium strumarium (all claimed). Test details are described but no results given.
-   ADVANTAGE - The composition exhibits excellent herbicidal activity.","Status as of : 08.12.2022
-Competitive impact : 3.412
-Technology relevance : 1.217
-Market coverage : 2.803
-Current owners : SINOCHEM HOLDINGS CORPORATION LTD
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""2""",The patent text explicitly states that the composition comprises an imidazolinone-based acetolactate synthase (ALS) inhibitor as a *herbicide*.  It also describes its use for controlling weed and lists specific weeds targeted by the composition.
-16,WO2022182216,WO2022182216,WPI/2022-B2434V,New isolated strain of Lysinibacillus fusiformis comprising characteristics of deposited strain CM-CNRG TB160 used in e.g. agricultural nutrient for producing agricultural crops,UNIV GUADALAJARA AUTONOMA AC,WO2022182216 A1,20220901,,herbicide,,,"WO 2022182216 A1
+   ADVANTAGE - The composition exhibits excellent herbicidal activity.","""2""",The patent text explicitly states that the composition comprises an imidazolinone-based acetolactate synthase (ALS) inhibitor as a *herbicide*.  It also describes its use for controlling weed and lists specific weeds targeted by the composition.
+herbicide,,,"WO 2022182216 A1
    NOVELTY - Isolated strain (S1) of Lysinibacillus fusiformis comprising the characteristics of the deposited strain CM-CNRG TB160, is new. 
    DETAILED DESCRIPTION - INDEPENDENT CLAIMS are also included for: (1) an isolated strain (S2) of Bacillus cereus comprising the characteristics of the deposited strain CM-CNRG TB156; (2) an isolated strain (S3) of Bacillus cereus comprising the characteristics of the deposited strain CM-CNRG TB157; (3) an isolated strain (S4) of Bacillus subtilis comprising the characteristics of the deposited strain CM-CNRG TB159; (4) an isolated strain (S5) of Enterobacter cloacae comprising the characteristics of the deposited strain CM-CNRG TB154; (5) an isolated strain (S6) of Lysinibacillus sphaericus comprising the characteristics of the deposited strain CM-CNRG TB161; (6) an isolated strain (S7) of Enterobacter spp. comprising the characteristics of the deposited strain CM-CNRG TB155; (7) an isolated strain (S8) of Bacillus spp. comprising the characteristics of the deposited strain CM-CNRG TB158; (8) a probiotic mixture comprising (i) an isolated strain of Lysinibacillus fusiformis , (ii) an isolated strain of Bacillus cereus , (iii) an isolated strain of Bacillus cereus , (iv) an isolated strain of Bacillus subtilis , (v) an isolated strain of Enterobacter cloacae , (vi) an isolated strain of Lysinibacillus sphaericus , (vii) an isolated strain of Enterobacter spp. , and (viii) an isolated strain of Bacillus spp. ; (8) an agricultural nutrient comprising a probiotic mixture of bacterial strains, and a nutritional formulation; and (9) agricultural production comprising applying a sufficient amount of the agricultural nutrient to an agricultural crop. 
    ACTIVITY - Plant Growth Stimulant; Plant Growth Regulant; Plant Growth Inhibitor.
    MECHANISM OF ACTION - None given.
    USE - The strains are useful: in an agricultural nutrient for producing agricultural crops (all claimed); for stimulating growth and regulate responses in the protection of plants; and for inhibiting in vitro the growth of the mycelium of Fusarium oxysporum . Test details are described but no results given.
-   ADVANTAGE - The strains: utilize the bacterial strains that exhibits fungicidal activity against Pseudocercospora fijiensis , possess the anti- stress enzyme ACC-deaminase, fix atmospheric nitrogen, produce indoleacetic acid and solubilize minerals that are assimilated by plants, and restore the endophytic microbiome; lowers economic and environmental cost; and environmentally friendly.","Status as of : 08.12.2022
-Competitive impact : 2.788
-Technology relevance : 0.995
-Market coverage : 2.803
-Current owners : AUTONOMOUS UNIVERSITY OF GUADALAJARA
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""3""","The patent text explicitly mentions the strains' ability to inhibit the growth of *Fusarium oxysporum* in vitro, which is a fungal pathogen. This indicates fungicidal activity."
-17,DE102021104679,DE102021104679,WPI/2022-B2230F,"Herbicidal composition useful in crop fields for control barnyard grass or crabgrass in crops, comprises butralin and sulfentrazone",BEIJING MARCHHEARD TECHNOLOGY LTD,DE102021104679 A1,20220901,,herbicide,,,"DE 102021104679 A1
+   ADVANTAGE - The strains: utilize the bacterial strains that exhibits fungicidal activity against Pseudocercospora fijiensis , possess the anti- stress enzyme ACC-deaminase, fix atmospheric nitrogen, produce indoleacetic acid and solubilize minerals that are assimilated by plants, and restore the endophytic microbiome; lowers economic and environmental cost; and environmentally friendly.","""3""","The patent text explicitly mentions the strains' ability to inhibit the growth of *Fusarium oxysporum* in vitro, which is a fungal pathogen. This indicates fungicidal activity."
+herbicide,,,"DE 102021104679 A1
    NOVELTY - Herbicidal composition comprises butralin and sulfentrazone in a weight ratio of 8:1-1:1.
    ACTIVITY - Herbicide. No biological data given. 
    MECHANISM OF ACTION - None given.
    USE - The composition is useful in crop fields for control barnyard grass or crabgrass in crops.
-   ADVANTAGE - The composition has broad weed killing spectrum, high effectiveness, effective cost reduction, exhibits synergistic effect of ≥ 120.","Status as of : 08.12.2022
-Competitive impact : 0.13
-Technology relevance : 0.995
-Market coverage : 0.131
-Current owners : BEIJING MARCHHEARD TECH
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : DE
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""2""",The patent explicitly states that the composition is a herbicide and details its use for weed control in crop fields.
-18,WO2022180640,WO2022180640,WPI/2022-B24734,"Insecticidal composition useful for controlling insect-pest, comprises chlorantraniliprole, flubendiamide, pyriproxyfen, diafenthiuron, bifenthrin or lambda-cyhalothrin, and excipients",WILLOWOOD CHEM PRIVATE LTD,WO2022180640 A1,20220901,,insecticide,,,"WO 2022180640 A1
+   ADVANTAGE - The composition has broad weed killing spectrum, high effectiveness, effective cost reduction, exhibits synergistic effect of ≥ 120.","""2""",The patent explicitly states that the composition is a herbicide and details its use for weed control in crop fields.
+insecticide,,,"WO 2022180640 A1
    NOVELTY - Insecticidal composition comprises (a) chlorantraniliprole, (b) flubendiamide, (c) at least one compound chosen from pyriproxyfen, diafenthiuron, bifenthrin and λ -cyhalothrin, and (d) one or more excipients.
    ACTIVITY - Insecticide. Test details are described but no results given. 
    MECHANISM OF ACTION - None given.
    USE - The insecticidal composition is useful for controlling insect-pest in crops. The insect-pest is Lepidoptera, Coleoptera, Diptera, Homoptera, Thysanoptera, or Orthoptera.
-   ADVANTAGE - The insecticidal composition exhibits synergistic effects, controls wide spectrum of insect-pest in crops, reduces treatment cost to farmer, eases burden on environment both from manufacturing waste and crop protection chemical residues, delays emergence of resistant strains, minimizes risk of development of resistance, is economically beneficial to the farmers as it provides better yield of the crop with reduction in the number of sprays, has reduced possibility of hazards to farmers due to reduction in number of sprays, has excellent storage stability, and is non- phytotoxic or environmentally-friendly.","Status as of : 08.12.2022
-Competitive impact : 2.79
-Technology relevance : 0.995
-Market coverage : 2.803
-Current owners : WILLOWOOD CHEMICALS PRIVATE
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""",The patent text explicitly states that the composition is an insecticide and lists its activity against various insect pests.
-19,WO2022180641,WO2022180641,WPI/2022-B2431J,"Synergistic insecticidal composition useful for controlling a wide spectrum of insect pests, comprises chlorantraniliprole, methoxyfenozide, deltamethrin and lambda-cyhalothrin, and excipients",WILLOWOOD CHEM PRIVATE LTD,WO2022180641 A1,20220901,,insecticide,,,"WO 2022180641 A1
+   ADVANTAGE - The insecticidal composition exhibits synergistic effects, controls wide spectrum of insect-pest in crops, reduces treatment cost to farmer, eases burden on environment both from manufacturing waste and crop protection chemical residues, delays emergence of resistant strains, minimizes risk of development of resistance, is economically beneficial to the farmers as it provides better yield of the crop with reduction in the number of sprays, has reduced possibility of hazards to farmers due to reduction in number of sprays, has excellent storage stability, and is non- phytotoxic or environmentally-friendly.","""1""",The patent text explicitly states that the composition is an insecticide and lists its activity against various insect pests.
+insecticide,,,"WO 2022180641 A1
    NOVELTY - Synergistic insecticidal composition comprises: chlorantraniliprole; methoxyfenozide; at least one compound comprises deltamethrin and λ -cyhalothrin; and at least one excipient. 
    ACTIVITY - Insecticide.
    MECHANISM OF ACTION - None given.
    USE - The composition is useful for controlling a wide spectrum of insect pests. The ability of the composition to control wide spectrum of insect pests was tested o sugarcane using field trail assay. The results showed that composition (comprised of 6% chlorantraniliprole, 21% methoxyfenozide, and 1.25% deltamethrin) exhibited 85.78% reduction against control.
-   ADVANTAGE - The composition: is economically beneficial to the farmers as it provides better yield of the crop with reduction in the number of sprays; reduces possibility of hazards to the farmers due to occupational exposure because of reduction in the number of sprays; increases efficacy in comparison to the other formulations tested during the trial; and is storage stable, non-phytotoxic, and environmental friendly.","Status as of : 08.12.2022
-Competitive impact : 2.79
-Technology relevance : 0.995
-Market coverage : 2.803
-Current owners : WILLOWOOD CHEMICALS PRIVATE
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""",The patent text explicitly states that the composition is an insecticide and describes its activity in controlling a wide spectrum of insect pests. There is no mention of herbicides or fungicides.
-20,WO2022180096,WO2022180096,WPI/2022-B24240,"Controlling or preventing damage to rice plant caused by insect in order Hemiptera, comprises applying combination comprising pymetrozine and triflumezopyrim on plant or its locus or its propagation material",SYNGENTA CROP PROTECTION AG,WO2022180096 A1,20220901,,insecticide,,,"WO 2022180096 A1
+   ADVANTAGE - The composition: is economically beneficial to the farmers as it provides better yield of the crop with reduction in the number of sprays; reduces possibility of hazards to the farmers due to occupational exposure because of reduction in the number of sprays; increases efficacy in comparison to the other formulations tested during the trial; and is storage stable, non-phytotoxic, and environmental friendly.","""1""",The patent text explicitly states that the composition is an insecticide and describes its activity in controlling a wide spectrum of insect pests. There is no mention of herbicides or fungicides.
+insecticide,,,"WO 2022180096 A1
    NOVELTY - Method for controlling or preventing damage to a rice plant caused by an insect in the order Hemiptera, comprises applying a combination comprising (I) pymetrozine and (II) triflumezopyrim on the plant or its locus or its propagation material, where the weight ratio of component (I) to component (II) is 7:1-9:1.
    DETAILED DESCRIPTION - An INDEPENDENT CLAIM is included for a composition comprising (I) pymetrozine, (II) triflumezopyrim, and (III) optionally, one or more auxiliaries and diluent. 
    ACTIVITY - Insecticide. The pesticidal activity of the composition was tested against Nilaparvata lugens . The result showed that the composition comprising 21 ppm pymetrozine and 3 ppm triflumezopyrim in a weight ratio of 7:1 exhibited a combined inhibition rate of 100%. 
    MECHANISM OF ACTION - None given.
    USE - The method is used for controlling or preventing damage to a rice plant caused by an insect in the order Hemiptera. The insect is in the family Delphacidae or Cicadellidae. The insect is in the genus selected from Nilaparvata spp. , Laodelphax spp. , Sogatella spp. and Nephotettix spp. , preferably selected from the species N.lugens , L.striatellus , S.furcifera , N.virescens and N.cincticeps (all claimed). 
-   ADVANTAGE - The method provides increased safety profile, improved physico-chemical properties and increased biodegradability. The method improves toxicological and/or ecotoxicological behavior, and characteristics of the useful plants including emergence, crop yields, more developed root system, tillering increase, plant height increased, bigger leaf blade, less dead basal leaves, stronger tillers, greener leaf color, less fertilizers needed, less seeds needed, more productive tillers, earlier flowering, early grain maturity, less plant verse (lodging), increased shoot growth, improved plant vigor, and early germination.","Status as of : 08.12.2022
-Competitive impact : 4.591
-Technology relevance : 1.638
-Market coverage : 2.803
-Current owners : Syngenta (in: Sinochem Holdings); SINOCHEM HOLDINGS CORPORATION LTD
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""","The patent text describes a method for controlling damage to rice plants caused by insects in the order Hemiptera. It specifically mentions testing the composition against Nilaparvata lugens, which is a type of planthopper (insect), and highlights the insecticide activity of the combination."
-21,WO2022180396,WO2022180396,WPI/2022-B2303W,"Agricultural composition used e.g. to enhance uptake of silicon by plants, to reduce physical damage by pests, and as fertilizer comprises water- soluble source of silicon, and silicon transport stimulant comprising aryl substituted urea",LEVITY CROP SCI LTD,"WO2022180396 A1
-GB2604341 A","20220901
-20220907",,insecticide,,,"WO 2022180396 A1
+   ADVANTAGE - The method provides increased safety profile, improved physico-chemical properties and increased biodegradability. The method improves toxicological and/or ecotoxicological behavior, and characteristics of the useful plants including emergence, crop yields, more developed root system, tillering increase, plant height increased, bigger leaf blade, less dead basal leaves, stronger tillers, greener leaf color, less fertilizers needed, less seeds needed, more productive tillers, earlier flowering, early grain maturity, less plant verse (lodging), increased shoot growth, improved plant vigor, and early germination.","""1""","The patent text describes a method for controlling damage to rice plants caused by insects in the order Hemiptera. It specifically mentions testing the composition against Nilaparvata lugens, which is a type of planthopper (insect), and highlights the insecticide activity of the combination."
+insecticide,,,"WO 2022180396 A1
    NOVELTY - Agricultural composition comprises a water-soluble source of silicon, and a silicon transport stimulant comprising an aryl substituted urea.
    DETAILED DESCRIPTION - INDEPENDENT CLAIMS are also included for: 
       a formulation comprising the composition, and a medium, in which the composition is dispersed or dissolved;
@@ -393,20 +183,8 @@ GB2604341 A","20220901
    ACTIVITY - Insecticide; Antimicrobial; Plant Protectant; Plant Growth Stimulant; Fertilizer.
    MECHANISM OF ACTION - None given.
    USE - The composition or formulation are useful: for administering to plants or to the environment of plants; for supplying silicon to plants; for enhancing the uptake of silicon by plants; for reducing physical damage by pests; for improving shelf life of a harvested crop by enhancing silicon distribution to the harvested parts of a plant; for preventing or alleviating disease or infection in plants by improving distribution and efficacy of applied silicon; for improving plant growth during conditions of abiotic stress; for improving plant growth rate; for reducing the volume of silicon needed for a growth response; and as a fertilizer for administration to crops. The diphenyl urea compound is useful as a silicon transport stimulant (all claimed). The ability of the composition to improve plant growth rate was tested in onions by measuring increase in mean stem diameter using biological assay. The results showed that the composition (comprised of 19.995 wt.% water, 80 wt.% potassium silicate and 0.005 wt.% N,N diphenyl urea) increased mean stem diameter by 4.73 mm. 
-   ADVANTAGE - The composition: allows silicon to remain metabolically active for longer; facilitates to improve silicon uptake and distribution in plants at reduced cost; can be applied less frequently and at reduced application rates, when compared to conventional silicon-based fertilizers; is synergistic; and may exhibit insecticidal and/or acaricidal activity.","Status as of : 08.12.2022
-Competitive impact : 2.794
-Technology relevance : 0.997
-Market coverage : 2.803
-Current owners : LEVITY CROP SCIENCE
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : GB; WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""2"", ""3""","The patent describes a composition that improves silicon uptake and distribution in plants, enhancing their resistance to abiotic stress and disease.  This suggests applications as both a herbicide (by improving stress tolerance) and a fungicide (by boosting disease resistance)."
-22,US20220272980,US20220272980,WPI/2022-B0578T,"Pesticidal composition, comprises pesticidally effective concentration of pesticidally active solid particulate chitin synthesis inhibitor",CONTROL SOLUTIONS INC,"US20220272980 A1
-WO2022187166 A1","20220901
-20220909",,insecticide,,,"US 20220272980 A1
+   ADVANTAGE - The composition: allows silicon to remain metabolically active for longer; facilitates to improve silicon uptake and distribution in plants at reduced cost; can be applied less frequently and at reduced application rates, when compared to conventional silicon-based fertilizers; is synergistic; and may exhibit insecticidal and/or acaricidal activity.","""2"", ""3""","The patent describes a composition that improves silicon uptake and distribution in plants, enhancing their resistance to abiotic stress and disease.  This suggests applications as both a herbicide (by improving stress tolerance) and a fungicide (by boosting disease resistance)."
+insecticide,,,"US 20220272980 A1
    NOVELTY - Pesticidal composition, comprises a pesticidally effective concentration of a pesticidally active solid particulate chitin synthesis inhibitor.
    DETAILED DESCRIPTION - INDEPENDENT CLAIMS are included for: 
     1. a pesticidal granule, which comprises a carrier granule having a pesticidal powder composition deposited on it; 
@@ -414,18 +192,8 @@ WO2022187166 A1","20220901
     3. a pesticidal powder composition, which comprises a solid particulate insect growth regulator, the composition comprising: a. 0.08-0.5 wt.% solid particulate novaluron; b. 70-80 wt.% attapulgite; and c. 20-30 wt.% corn grit;
     4. a method for controlling a target pest, which involves contacting the pest with a pesticidally effective amount of a composition. 
    USE - Pesticidal composition.
-   ADVANTAGE - None given.","Status as of : 08.12.2022
-Competitive impact : 2.79
-Technology relevance : 0.995
-Market coverage : 2.803
-Current owners : CONTROL SOLUTIONS LLC; CONTROL SOLUNTIONS
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : US; WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""",The patent explicitly mentions \
-23,KR2022120954,KR2022120954,WPI/2022-B2255X,"Composition useful for controlling plant diseases including rice blast, tomato gray mold, tomato late blight, wheat red rust and red pepper anthrax caused by phytopathogenic fungi, and bacteria, comprises substituted ketone based compounds",KOREA RES INST CHEM TECHNOLOGY,KR2022120954 A,20220831,,fungicide,,,"KR 2022120954 A
+   ADVANTAGE - None given.","""1""",The patent explicitly mentions \
+fungicide,,,"KR 2022120954 A
    NOVELTY - Composition comprises substituted ketone based comlpounds, and their optical isomers, or salts.
    DETAILED DESCRIPTION - Composition comprises substituted ketone based compounds (A) of formulae (I)-(V), and their optical isomers, or salts. 
        R1 and R2  = H, -OH, 1-6C alkyl or -O-1-6C alkyl; 
@@ -438,32 +206,10 @@ Patent rights :
    ACTIVITY - Fungicide; Antibacterial. Test details are described but no results given.
    MECHANISM OF ACTION - None given.
    USE - The composition is useful for controlling plant diseases including rice blast, tomato gray mold, tomato late blight, wheat red rust and red pepper anthrax caused by phytopathogenic fungi i.e. Alternaria brassicicola , Cladosporium cucumerinum , Colletotrichum coccodes , and Fusarium oxysporum f. sp. Lycopersici, Magnaporthe oryzae and Phytophthora infestans , and phytopathogenic bacteria i.e. Acidovorax avenae subsp. Cattleyae and Erwinia chrysanthemi by applying on surface of stems and leaves of plants through volatilization treatment method and seed treatment method, sterilizing and coating seeds, and treating the habitat in which the plants grow, preferably planting hole, furrow, periphery of replantation, planting furrow perimeter, entire surface of growth site, part between soil and plants, part between roots, part under stem of a plant, main furrow, growth soil, nail bed, seedling box, trays for seedlings and seedlings (all claimed).
-   ADVANTAGE - The composition contains natural products, is harmless to the human body, has biodegradable in nature, and effective in controlling plant diseases without causing environmental pollution, can be developed as environmentally friendly biological pesticides, and can be usefully used in the production of value-added organic products.","Status as of : 08.12.2022
-Competitive impact : 0.062
-Technology relevance : 1.102
-Market coverage : 0.056
-Current owners : KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""3""","The patent explicitly states that the composition has fungicidal activity and lists specific plant diseases caused by fungi that it controls. Additionally, the use section mentions applications like seed treatment and habitat treatment to prevent fungal infections in plants."
-24,CN217313396,CN217313396,WPI/2022-B4542M,"New production device of glyphosate isopropylamine salt used as herbicide, comprises outer shell, where bottom of outer shell is fixedly installed with supporting plate, bottom of front surface of shell is installed with instrument",SHANDONG SHENGPENG TECHNOLOGY CO LTD,CN217313396 U,20220830,,herbicide,,,"CN 217313396 U
-   NOVELTY - The utility model relates to the technical field of herbicide production machine, especially to a novel production device of glyphosate isopropyl amine salt, comprising an outer shell, the bottom of the outer shell is fixedly installed with a supporting plate, the bottom of the front surface of the shell is fixedly installed with a meter, the utility model is set with the intelligent sensing temperature control component, capable of using the metal sheet with heat generating deformation in the production machine to automatically control the electrifying state of the heating plate, the metal sheet of the internal heating induction can more acuity adjusting the temperature of the inner part, so that the inner temperature is maintained at a relatively constant temperature state when the machine is produced, ensuring the quality of the finished product, in addition, through the limiting plate in the intelligent sensing temperature control assembly, the limiting plate is located at the left side of the curved metal sheet, when the curved metal sheet is heated to change, the limiting plate is propped against the left side of the curved metal sheet, so that the curved metal sheet only can generate deformation displacement to the right side, increasing the accuracy of the inner temperature sensing adjustment, The design is more humanized.","Status as of : 08.12.2022
-Competitive impact : 
-Technology relevance : 
-Market coverage : 0.676
-Current owners : SHANDONG SHENGPENG TECH
-Patent rights : 
-    Active + Granted : CN
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""2""","The patent explicitly mentions the production of glyphosate isopropyl amine salt, which is a common active ingredient in herbicides."
-25,WO2022179501,WO2022179501,WPI/2022-B2678M,"New substituted benzimidazole compounds useful in preparing of insecticide and acaricide for agriculture, forestry and horticulture",QINGDAO KANGQIAO PLANT SCI CO LTD,"WO2022179501 A1
-CN114957131 A","20220901
-20220830",,insecticide,,,"WO 2022179501 A1
+   ADVANTAGE - The composition contains natural products, is harmless to the human body, has biodegradable in nature, and effective in controlling plant diseases without causing environmental pollution, can be developed as environmentally friendly biological pesticides, and can be usefully used in the production of value-added organic products.","""3""","The patent explicitly states that the composition has fungicidal activity and lists specific plant diseases caused by fungi that it controls. Additionally, the use section mentions applications like seed treatment and habitat treatment to prevent fungal infections in plants."
+herbicide,,,"CN 217313396 U
+   NOVELTY - The utility model relates to the technical field of herbicide production machine, especially to a novel production device of glyphosate isopropyl amine salt, comprising an outer shell, the bottom of the outer shell is fixedly installed with a supporting plate, the bottom of the front surface of the shell is fixedly installed with a meter, the utility model is set with the intelligent sensing temperature control component, capable of using the metal sheet with heat generating deformation in the production machine to automatically control the electrifying state of the heating plate, the metal sheet of the internal heating induction can more acuity adjusting the temperature of the inner part, so that the inner temperature is maintained at a relatively constant temperature state when the machine is produced, ensuring the quality of the finished product, in addition, through the limiting plate in the intelligent sensing temperature control assembly, the limiting plate is located at the left side of the curved metal sheet, when the curved metal sheet is heated to change, the limiting plate is propped against the left side of the curved metal sheet, so that the curved metal sheet only can generate deformation displacement to the right side, increasing the accuracy of the inner temperature sensing adjustment, The design is more humanized.","""2""","The patent explicitly mentions the production of glyphosate isopropyl amine salt, which is a common active ingredient in herbicides."
+insecticide,,,"WO 2022179501 A1
    NOVELTY - Substituted benzimidazole compounds (I), are new. 
    DETAILED DESCRIPTION - Substituted benzimidazole compounds of formula (I), and their salts, are new.
        R  = 1-10C alkyl, 3-10C cycloalkyl, 2-10C alkenyl, 2-10C alkynyl (all are optionally substituted by G1);
@@ -477,100 +223,37 @@ CN114957131 A","20220901
    ACTIVITY - Herbicide; Acaricide; Plant Protectant. The herbicidal activity of (I) was tested on Tetranychus cinnabarinus . The results showed that 1-(ethylsulfonyl)-2-(4-fluoro-3-(trifluoromethyl)phenyl)-1H- benzo[d]imidazole (100 mg/ml) exhibited 100% lethality on Tetranychus cinnabarinus .
    MECHANISM OF ACTION - None given.
    USE - (I) is useful in preparing of insecticide and acaricide for agriculture, forestry and horticulture (all claimed). 
-   ADVANTAGE - (I) have high insecticidal and acaricidal effects when used at low concentrations, and excellent control effect.","Status as of : 08.12.2022
-Competitive impact : 2.78
-Technology relevance : 0.992
-Market coverage : 2.803
-Current owners : QINGDAO KANGQIAO PLANT SCIENCE
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : CN; WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1"", ""2""","The patent describes substituted benzimidazole compounds (I) with insecticidal and herbicidal activity. The text specifically mentions their use in preparing insecticides and acaricides for agriculture, forestry, and horticulture. Additionally, the activity section states that the compound exhibited 100% lethality on Tetranychus cinnabarinus (a mite),  indicating insecticidal properties. The text also mentions herbicidal activity."
-26,IN202211045846,IN202211045846,WPI/2022-B2313G,"Hydroponic prototype framework for cultivating e.g. microgreens in aquaponic solution, has container formed with first foam divided into squares of equal size and second foam fitted at center to provide support to seeds for germination",UNIV SHARDA,IN202211045846 A,20220826,,herbicide,,,"IN 202211045846 A
+   ADVANTAGE - (I) have high insecticidal and acaricidal effects when used at low concentrations, and excellent control effect.","""1"", ""2""","The patent describes substituted benzimidazole compounds (I) with insecticidal and herbicidal activity. The text specifically mentions their use in preparing insecticides and acaricides for agriculture, forestry, and horticulture. Additionally, the activity section states that the compound exhibited 100% lethality on Tetranychus cinnabarinus (a mite),  indicating insecticidal properties. The text also mentions herbicidal activity."
+herbicide,,,"IN 202211045846 A
    NOVELTY - The framework (1) has a container formed with two foams (3, 4) e.g. polyethylene foam such as thermoplastic resin, and polyurethane foam such as thermosetting resin, and liquid nutrient media as growing medium. The container is formed with frames and the liquid nutrient media. The different types of foams are utilized to construct a the framework for growing the microgreens, where the first foam is divided into small squares of equal size to place a second foam and utilized to construct an external supporting framework to provide support to seeds from sinking into liquid nutrient media. The second foam is fitted at a center to provide support to the seeds for germination.
    USE - Hydroponic prototype framework for cultivating microgreens in a nutrient solution e.g. aquaponic nutrient solution and aeroponic nutrient solution. Uses include but are not limited to basil, broccoli, kale, cabbage, parsley, mustard and chickpea microgreens formed from seeds of leafy vegetables, herbs, legumes, and cereal crops. 
    ADVANTAGE - The framework grows microgreens with minimal or no use of pesticides or agrochemicals and reduces soil-borne infection and weed contamination. The framework performs under control growth environment and helps in easy cutting or separation of an edible portion. The framework helps in improving quality and yield and reduces chances of unwanted contamination of soil particles or unwanted material from a solid substrate. The framework grows the microgreens in soil free manner by utilizing nutrient solutions that act as a rich source of nutrients for enhancing rate of growth of the microgreens in a short span of time. 
    DESCRIPTION OF DRAWINGS - The drawing shows a perspective view of a hydroponic prototype framework.
      1- Hydroponic prototype framework
-     2- Foams",,"""0""","The patent describes a hydroponic framework for cultivating microgreens, focusing on the structure and benefits of growing in a nutrient solution. There is no mention of insecticides, herbicides, or fungicides."
-27,CN217284509,CN217284509,WPI/2022-B6044P,"Predatory mite releasing box for preventing and treating red spider on fruit planting of citrus fruit planting, has multiple access holes arranged on box body, where edge of upper cover is more than edge of box body",RONGAN AGRIC SCI RONGAN INST,CN217284509 U,20220826,,insecticide,,,"CN 217284509 U
-   NOVELTY - The utility model relates to biological control field, specifically claims a predatory mite release box, comprising a box body, and an upper cover set above the box body, the box body is arranged with a plurality of access holes, the edge of the upper cover exceeds the edge of the box body; the lower part of the box body is further provided with a drain hole, further provided with a fixing device fixed on the box body, further comprising a guide rail set on the side surface of the box body and a plug board matched with the guide rail; The utility model as the carrier for releasing predatory mite, as the releasing device of predatory mite, it is firm, ventilation, convenient for predatory characteristics to pass in and out.","Status as of : 08.12.2022
-Competitive impact : 
-Technology relevance : 
-Market coverage : 0.676
-Current owners : RONGAN AGRICULTURAL SCIENCE RES INSTITUTE RONGAN KUMQUAT RES INSTITUTE
-Patent rights : 
-    Active + Granted : CN
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""","The patent describes a predatory mite release box, clearly indicating its use in biological control of pests, which falls under the category of insecticides."
-28,CN217288675,CN217288675,WPI/2022-B2964M,"Temperature-controlled water-cooling horizontal sand mill for coating, dye, paint, ink, medicine, magnetic powder, ferrite, photosensitive film, pesticide, paper and cosmetic, has base, where upper part of base is provided with grinding cylinder",DALIAN PAINT CO LTD,CN217288675 U,20220826,,insecticide,,,"CN 217288675 U
-   NOVELTY - The utility model claims a temperature control water-cooling horizontal sand mill, belonging to the technical field of horizontal sand mill; comprising a base, above the base is provided with a grinding cylinder, one side of the grinding cylinder is provided with a cooling box, one side of the cooling box is provided with a cooling component, two sides of the grinding cylinder close to the cooling box is provided with a cleaning component, the cleaning component comprises a cleaning water inlet pipe, a cleaning water inlet pump, a cleaning reflux pipe, a washing reflux water pump, a drain pipe and a separating component, wherein the upper part of the cooling box is provided with a cleaning water inlet pump, the cleaning water inlet pump and the grinding cylinder are provided with a cleaning water inlet pipe, the lower part of the grinding cylinder is provided with a drain pipe, one side of the cooling box is provided with a cleaning reflux water pump; The utility model is provided with a cleaning assembly, recycling cleaning the liquid of the grinding cylinder, saving water resource, by setting the cooling component, so that the liquid of the cooling box is kept at a low temperature, the cooling effect of the device.","Status as of : 08.12.2022
-Competitive impact : 
-Technology relevance : 
-Market coverage : 0.676
-Current owners : DALIAN PAINT
-Patent rights : 
-    Active + Granted : CN
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""0""","This patent describes a temperature control water-cooling horizontal sand mill, a piece of industrial equipment. There is no mention of insecticides, herbicides, or fungicides."
-29,KR2022117942,KR2022117942,WPI/2022-A9720V,"Pomegranate-zinc oxide nanocomposite particles used in e.g. cosmetic composition, prepared by combining polyphenols or flavonoids in pomegranate extract, with zinc oxide",UNIV YEUNGNAM RES COOP FOUND,KR2022117942 A,20220825,,fungicide,,,"KR 2022117942 A
+     2- Foams","""0""","The patent describes a hydroponic framework for cultivating microgreens, focusing on the structure and benefits of growing in a nutrient solution. There is no mention of insecticides, herbicides, or fungicides."
+insecticide,,,"CN 217284509 U
+   NOVELTY - The utility model relates to biological control field, specifically claims a predatory mite release box, comprising a box body, and an upper cover set above the box body, the box body is arranged with a plurality of access holes, the edge of the upper cover exceeds the edge of the box body; the lower part of the box body is further provided with a drain hole, further provided with a fixing device fixed on the box body, further comprising a guide rail set on the side surface of the box body and a plug board matched with the guide rail; The utility model as the carrier for releasing predatory mite, as the releasing device of predatory mite, it is firm, ventilation, convenient for predatory characteristics to pass in and out.","""1""","The patent describes a predatory mite release box, clearly indicating its use in biological control of pests, which falls under the category of insecticides."
+insecticide,,,"CN 217288675 U
+   NOVELTY - The utility model claims a temperature control water-cooling horizontal sand mill, belonging to the technical field of horizontal sand mill; comprising a base, above the base is provided with a grinding cylinder, one side of the grinding cylinder is provided with a cooling box, one side of the cooling box is provided with a cooling component, two sides of the grinding cylinder close to the cooling box is provided with a cleaning component, the cleaning component comprises a cleaning water inlet pipe, a cleaning water inlet pump, a cleaning reflux pipe, a washing reflux water pump, a drain pipe and a separating component, wherein the upper part of the cooling box is provided with a cleaning water inlet pump, the cleaning water inlet pump and the grinding cylinder are provided with a cleaning water inlet pipe, the lower part of the grinding cylinder is provided with a drain pipe, one side of the cooling box is provided with a cleaning reflux water pump; The utility model is provided with a cleaning assembly, recycling cleaning the liquid of the grinding cylinder, saving water resource, by setting the cooling component, so that the liquid of the cooling box is kept at a low temperature, the cooling effect of the device.","""0""","This patent describes a temperature control water-cooling horizontal sand mill, a piece of industrial equipment. There is no mention of insecticides, herbicides, or fungicides."
+fungicide,,,"KR 2022117942 A
    NOVELTY - Pomegranate-zinc oxide nanocomposite particles prepared by combining polyphenols or flavonoids in pomegranate extract, with zinc oxide.
    DETAILED DESCRIPTION - An INDEPENDENT CLAIM is included for preparation of the pomegranate-zinc oxide nanocomposite particles, which involves (i) extracting portions chosen from fruits, seeds, pericarps, leaves, barks and root skins of pomegranate using water and/or 1-4C alcohol solution to obtain a pomegranate extract, (ii) mixing the pomegranate extract with zinc oxide, and (iii) reacting in the presence of a sodium borohydride catalyst. 
    ACTIVITY - Dermatological; Pesticide. No biological data given. 
    MECHANISM OF ACTION - None given.
    USE - Pomegranate-zinc oxide nanocomposite particles are used in cosmetic composition in the form of lotion, cream, sunscreen, fragrance, pack, shampoo, cleansing, hand sanitizer, aerosol or patch, preferably cosmetic preservative, cosmetic sunscreen or scalp health promotion shampoo, or health food composition in the form of powder, tablet, liquid or jelly, preferably health functional food supplement, for providing antioxidant effect, antibacterial effect and ultraviolet protection effect, in food preservative (bio-available food preservative), and agent (all claimed), preferably agricultural pesticide for controlling microorganisms that cause plant diseases in crops or flowers. 
-   ADVANTAGE - The pomegranate-zinc oxide nanocomposite particles are less toxic to human skin cells than pomegranate extract and zinc oxide, and have desired antibacterial effect that significantly increases the antioxidant function and inhibits the growth of microorganisms with ultraviolet blocking effect.","Status as of : 08.12.2022
-Competitive impact : 0.054
-Technology relevance : 0.95
-Market coverage : 0.056
-Current owners : YEUNGNAM UNIVERSITY
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1"", ""2"", ""3""","The patent describes pomegranate-zinc oxide nanocomposite particles with pesticide activity, specifically targeting microorganisms that cause plant diseases in crops or flowers. This indicates applicability as an insecticide, herbicide, and fungicide."
-30,KR2022117960,KR2022117960,WPI/2022-A9422Q,"Composition useful as e.g. medicine for preventing and treating fungal infection and controlling plant disease through inhibiting production of aflatoxin, comprises strobilurin-based compound and flavonoid-based compound",UNIV CHUNG ANG IND ACAD COOP FOUND,KR2022117960 A,20220825,,fungicide,,,"KR 2022117960 A
+   ADVANTAGE - The pomegranate-zinc oxide nanocomposite particles are less toxic to human skin cells than pomegranate extract and zinc oxide, and have desired antibacterial effect that significantly increases the antioxidant function and inhibits the growth of microorganisms with ultraviolet blocking effect.","""1"", ""2"", ""3""","The patent describes pomegranate-zinc oxide nanocomposite particles with pesticide activity, specifically targeting microorganisms that cause plant diseases in crops or flowers. This indicates applicability as an insecticide, herbicide, and fungicide."
+fungicide,,,"KR 2022117960 A
    NOVELTY - Composition comprises strobilurin-based compound and flavonoid-based compound.
    ACTIVITY - Fungicide. Test details are described but no results given. 
    MECHANISM OF ACTION - None given.
    USE - The composition is useful as medicine, cosmetic, food and feed additive for preventing and treating fungal infection caused by Aspergillus flavus , Aspergillus parasiticus , Alternaria alternate and Colletotrichum acutatum and controlling plant disease through inhibiting production of aflatoxin caused by Aspergillus flavus and Aspergillus parasiticus (all claimed).
-   ADVANTAGE - The composition increases antifungal and aflatoxin production inhibitory activity, and increases yield of crops by suppressing infection of fungi and aflatoxin-producing strains, and is safe for crops, food, and feed.","Status as of : 08.12.2022
-Competitive impact : 0.045
-Technology relevance : 0.804
-Market coverage : 0.056
-Current owners : CHUNG-ANG UNIVERSITY
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""3""",The patent text explicitly states that the composition is a fungicide and describes its use in preventing and treating fungal infections.
-31,WO2022175600,WO2022175600,WPI/2022-A8609N,"Virucidal composition for e.g. preventing spread of viral infection, comprises mixture of biologically active compounds obtained from strains of Ganoderma lucidum by culturing the fungi in essentially liquid culture medium in culture tank or bioreactor in conditions essentially excluding agitation","NATURAL RESOURCES FINLAND LUKE INST
-UNIV JYVAESKYLAE",WO2022175600 A1,20220825,,fungicide,,,"WO 2022175600 A1
+   ADVANTAGE - The composition increases antifungal and aflatoxin production inhibitory activity, and increases yield of crops by suppressing infection of fungi and aflatoxin-producing strains, and is safe for crops, food, and feed.","""3""",The patent text explicitly states that the composition is a fungicide and describes its use in preventing and treating fungal infections.
+fungicide,,,"WO 2022175600 A1
    NOVELTY - Virucidal composition comprises a mixture of biologically active compounds obtained from strains of Ganoderma lucidum by culturing the fungi in essentially liquid culture medium in a culture tank or a bioreactor in conditions essentially excluding agitation. 
    DETAILED DESCRIPTION - An INDEPENDENT CLAIM is included for a process for producing the virucidal composition comprising a mixture of biologically active compounds obtained from strains of G.lucidum , which involves (a) culturing G.lucidum species in essentially liquid culture medium in a culture tank or a bioreactor, and (b) harvesting the medium as obtained at step (a) and separating the mixture of biologically active compounds as a product excreted by mycelium of G.lucidum in liquid phase, where the culturing of the G.lucidum species in essentially liquid culture medium in the culture tank or the bioreactor is implemented in conditions essentially excluding agitation.
    USE - The virucidal composition is used for preparation for external use in human or non-human animal subject for preventing spread of viral infections caused by picornaviridae and/or coronaviridae, disinfecting, sanitizing and/or cleaning, manufacturing personal care product or skincare product, disinfectant for skin or for non-living surface, and preventing spread of infections caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV2) (all claimed).
-   ADVANTAGE - The virucidal composition provides reliable and non-toxic antiviral compound.","Status as of : 08.12.2022
-Competitive impact : 2.782
-Technology relevance : 0.993
-Market coverage : 2.803
-Current owners : NATURAL RESOURCES INST FINLAND LUKE; UNIV OF JYVAESKYLAE
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : FI; WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""3""","The patent describes a virucidal composition derived from Ganoderma lucidum fungi.  While it has broader applications like disinfecting and cleaning, the core focus is on its antiviral properties, which aligns with fungicides as they often have broader antimicrobial activity."
-32,WO2022176743,WO2022176743,WPI/2022-A8568D,"Agent useful in antifungal product like outer walls, inner walls, building materials, air filters, packing, and tanks or pipes for water storage or water flow and antifungal paint, comprises lanthanide derivative",KYODO PRINTING CO LTD,"WO2022176743 A1
-JP2022126487 A","20220825
-20220830",,fungicide,,,"WO 2022176743 A1
+   ADVANTAGE - The virucidal composition provides reliable and non-toxic antiviral compound.","""3""","The patent describes a virucidal composition derived from Ganoderma lucidum fungi.  While it has broader applications like disinfecting and cleaning, the core focus is on its antiviral properties, which aligns with fungicides as they often have broader antimicrobial activity."
+fungicide,,,"WO 2022176743 A1
    NOVELTY - Agent comprises a lanthanide derivative (I). 
    DETAILED DESCRIPTION - Agent comprises a lanthanide derivative of formula: Ln2 x Fe2 ( 1- x ) O3 (I).
        Ln  = rare earth element chosen from lanthanum, praseodymium, neodymium and yttrium;and
@@ -579,34 +262,14 @@ JP2022126487 A","20220825
       antifungal product comprising a substrate and an antifungal layer comprising the above-mentioned agent; and
       antifungal paint comprising the above-mentioned agent. 
    USE - The agent is useful in antifungal product and paint, where the antifungal product is chosen from outer walls, inner walls, building materials, air filters, packing, and tanks or pipes for water storage or water flow (all claimed).
-   ADVANTAGE - The agent can impart the antifungal effect to materials to which antifungal agents cannot be applied and places with complicated shapes and also exerts antifungal effect on its surroundings as well i.e. by spreading even to parts that are not in direct contact with the agent and without the presence in the entire product. The agent has excellent safety and dispersibility in water and organic solvents and is low in environmental pollution.","Status as of : 08.12.2022
-Competitive impact : 1.502
-Technology relevance : 0.536
-Market coverage : 2.803
-Current owners : KYODO PRINTING COMPANY LIMITED
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : JP; WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""3""",The patent explicitly mentions an \
-33,DE102021201815,DE102021201815,WPI/2022-A8325R,"Herbicidal composition useful controlling weeds of cornfields, preferably barnyard grass or crabgrass control, comprises oryzalin and sulfentrazone",GUANGZHOU BAIYUN SHIJING XINGCHEN LTD,DE102021201815 A1,20220825,,herbicide,,,"DE 102021201815 A1
+   ADVANTAGE - The agent can impart the antifungal effect to materials to which antifungal agents cannot be applied and places with complicated shapes and also exerts antifungal effect on its surroundings as well i.e. by spreading even to parts that are not in direct contact with the agent and without the presence in the entire product. The agent has excellent safety and dispersibility in water and organic solvents and is low in environmental pollution.","""3""",The patent explicitly mentions an \
+herbicide,,,"DE 102021201815 A1
    NOVELTY - Herbicidal composition comprises oryzalin and sulfentrazone in a weight ratio of 8:1-1:1.
    ACTIVITY - Herbicide. No biological data given. 
    MECHANISM OF ACTION - None given.
    USE - The composition is useful controlling weeds of cornfields, preferably barnyard grass or crabgrass control. 
-   ADVANTAGE - The composition has a broad weed control spectrum, remarkable synergistic effect, which can effectively retard onset of resistance of weeds, wide high efficiency and effective cost reduction; and is safe for crops.","Status as of : 08.12.2022
-Competitive impact : 0.13
-Technology relevance : 0.995
-Market coverage : 0.131
-Current owners : GUANGZHOU BAIYUN SHIJING XINGCHEN
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : DE
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""2""",The patent explicitly states that the invention is a 'herbicidal composition' and describes its use in controlling weeds in cornfields.
-34,WO2022175420,WO2022175420,WPI/2022-A8610G,"Controlling or preventing damage to plant comprises applying combination comprising 2-(3-(ethylsulfonyl)pyridin-2-yl)-5-(2,2,3,3,3- pentafluoropropoxy)pyrazine and compound e.g. nicofluprole, flupyradifurone, thiacloprid and spidoxamat",SYNGENTA CROP PROTECTION AG,WO2022175420 A1,20220825,,insecticide,,,"WO 2022175420 A1
+   ADVANTAGE - The composition has a broad weed control spectrum, remarkable synergistic effect, which can effectively retard onset of resistance of weeds, wide high efficiency and effective cost reduction; and is safe for crops.","""2""",The patent explicitly states that the invention is a 'herbicidal composition' and describes its use in controlling weeds in cornfields.
+insecticide,,,"WO 2022175420 A1
    NOVELTY - Controlling or preventing damage to a plant comprises applying a combination comprising component (A1) 2-(3-(ethylsulfonyl)pyridin-2-yl)- 5-(2,2,3,3,3-pentafluoropropoxy)pyrazine (I); and as component (B1a) a compound (B1a) e.g. nicofluprole, (B2) spidoxamat, (B3) N-[[2-fluoro-4-[2- hydroxy-3-(3,4,5-trichlorophenyl)-3-(trifluoromethyl)pyrrolidin- 1yl]phenyl]methyl]cyclopropanecarboxamide, (B3a) (S)-N-[[2-fluoro-4-[2- hydroxy-3-(3,4,5-trichlorophenyl)-3-(trifluoromethyl)pyrrolidin-1- yl]phenyl]methyl]cyclopropanecarboxamide, (B4) 4-dimethyl-2-[2-(3-pyridyl )indazol-5-yl]-1,2,4-triazolidine-3,5-dione, (B5) N-[3-chloro-1-(3-pyridyl )pyrazol-4-yl]-2-methylsulfonyl-propanamide, (B6) (3R)-3-(2-chlorothiazol- 5-yl)-8-methyl-5-oxo-6-phenyl-2,3-dihydrothiazolo-pyrimidin-8-ium-7-olate and (B7) 1-(2-cyanoethyl)-4-oxo-3-[3-(trifluoromethyl)phenyl]pyrido[1,2-a ]pyrimidin-1-ium-2-olate and their salts.
    DETAILED DESCRIPTION - Controlling or preventing damage to a plant comprises applying a combination comprising as component (A1) a 2-(3- (ethylsulfonyl)pyridin-2-yl)-5-(2,2,3,3,3-pentafluoropropoxy)pyrazine of formula (I) or their salts; and as component (B1a) a compound comprising e.g. (B1a) nicofluprole, (B2) spidoxamat, (B3) N-[[2-fluoro-4-[2-hydroxy-3- (3,4,5-trichlorophenyl)-3-(trifluoromethyl)pyrrolidin- 1yl]phenyl]methyl]cyclopropanecarboxamide, (B3a) (S)-N-[[2-fluoro-4-[2- hydroxy-3-(3,4,5-trichlorophenyl)-3-(trifluoromethyl)pyrrolidin-1- yl]phenyl]methyl]cyclopropanecarboxamide, (B4) 4-dimethyl-2-[2-(3-pyridyl )indazol-5-yl]-1,2,4-triazolidine-3,5-dione, (B5) N-[3-chloro-1-(3-pyridyl )pyrazol-4-yl]-2-methylsulfonyl-propanamide, (B6) (3R)-3-(2-chlorothiazol- 5-yl)-8-methyl-5-oxo-6-phenyl-2,3-dihydrothiazolo[3,2-a]pyrimidin-8-ium-7- olate, (B7) 1-(2-cyanoethyl)-4-oxo-3-[3-(trifluoromethyl)phenyl]pyrido[1,2- a]pyrimidin-1-ium-2-olate, (B8) N-isopropyl-2-(3-pyridyl)indazole-4- carboxamide, (B9) N-cyclopropyl-2-(3-pyridyl)indazole-4-carboxamide, (B10) N-cyclohexyl-2-(3-pyridyl)indazole-4-carboxamide, (B11) 2-(3-pyridyl)-N- (2,2,2-trifluoroethyl)indazole-4-carboxamide, (B12) methyl N-[[2-(3-pyridyl )indazole-5-carbonyl]amino]carbamate, (B13) 2-(3-pyridyl)-N- (tetrahydrofuran-2-ylmethyl)indazole-5-carboxamide, (B14) N-[(2,2- difluorocyclopropyl)methyl]-2-(3-pyridyl)indazole-5-carboxamide, (B15) N-(2 ,2-difluoropropyl)-2-(3-pyridyl)indazole-5-carboxamide, (B16) 2-(3- pyridyl)-N-(pyrimidin-2-ylmethyl)indazole-5-carboxamide, (B17) N-[(5- methylpyrazin-2-yl)methyl]-2-(3-pyridyl)indazole-5-carboxamide, (B18) indazapyroxamet, (B19) N-[1-(difluoromethyl)cyclopropyl]-2-(3-pyridyl )indazole-4-carboxamide, (B20) N-(1,1-dimethyl-2-methylsulfanyl-ethyl)-7- fluoro-2-(3-pyridyl)indazole-4-carboxamide, (B21) N-(1,1-dimethyl-2- methylsulfinyl-ethyl)-7-fluoro-2-(3-pyridyl)indazole-4-carboxamide, (B22) 1 ,1-dimethyl-2-methylsulfonyl-ethyl)-7-fluoro-2-(3-pyridyl)indazole-4- carboxamide, (B23) cyproflanilide and (B24) flupentiofenox or their salts on the plant, the locus or propagation material. INDEPENDENT CLAIMS are also included for:
       controlling or preventing damage to a plant, comprising applying a combination comprising component (A1) (I) and as component (B1a), a compound having e.g. (B36) thiacloprid, (B37) imidacloprid, (B38) flupyradifurone (CAS 951659-40-8), (B39) triflumezopyrim, (B40) sulfoxaflor, (B41) acetamiprid, (B42) nitenpyram, (B43) clothianidin, (B44) thiamethoxam, (B61) esfenvalerate, (B62) cypermethrin, and (B63) λ -cyhalothrin, or their salts desired sequence or simultaneously, on the plant, the locus propagation material, where the combination of (A1) and (B1a) is in a ratio by weight of 500:1-1:500, preferably 3.1-1:3; 
@@ -618,18 +281,8 @@ Patent rights :
    ACTIVITY - Insecticide; Nematocide; Acaricide. 
    MECHANISM OF ACTION - None given.
    USE - The methods are useful for controlling or preventing damage to plant and acts as insecticide, nematicide or acaricide or for controlling insect and nematode (all claimed).
-   ADVANTAGE - The methods provide improved synergistic effects or synergistic action, e.g. beneficially degradability, improved toxicological and/or ecotoxicological behavior, or characteristics of the useful plants including emergence, crop yields, more developed root system, tillering increase, increase in plant height, bigger leaf blade, less dead basal leaves, stronger tillers, greener leaf color, less fertilizers needed, less seeds needed, more productive tillers, earlier flowering, early grain maturity, less plant verse (lodging), increased shoot growth, plant vigor and early germination. The synergistic effect of the combination was tested in Spodoptera littoralis of cotton leaf discs using Spodoptera littoralis contact assay by measuring percentage of mortality. The result showed that the combination comprised of (10 mg/l (I) and 0.062 mg/l (S)-N-[[2-fluoro-4 -[2-hydroxy-3-(3,4,5-trichlorophenyl)-3-(trifluoromethyl)pyrrolidin-1- yl]phenyl]methyl]cyclopropanecarboxamide exhibited 100% of mortality.","Status as of : 08.12.2022
-Competitive impact : 4.591
-Technology relevance : 1.638
-Market coverage : 2.803
-Current owners : Syngenta (in: Sinochem Holdings); SINOCHEM HOLDINGS CORPORATION LTD
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1"", ""2"", ""3""","The patent text describes a combination of compounds used to control or prevent damage to plants.  It explicitly lists activities as insecticide, nematicide, and acaricide, and mentions control of insects and nematodes. Additionally, it refers to compounds like iprodione, fluindapyr, and flutriafol, which are fungicides. Therefore, the patent falls under all three categories: insecticides, herbicides, and fungicides."
-35,WO2022175958,WO2022175958,WPI/2022-A86103,"New isolated bacterial strain useful in agricultural composition for protecting plant from insect pest e.g. Spodoptera frugiperda, Lygus hesperus, Plutella xylostella or Chrysodeixis includens, or mite pest i.e. Tetranychus urticae",LAVIE BIO LTD,WO2022175958 A1,20220825,,insecticide,,,"WO 2022175958 A1
+   ADVANTAGE - The methods provide improved synergistic effects or synergistic action, e.g. beneficially degradability, improved toxicological and/or ecotoxicological behavior, or characteristics of the useful plants including emergence, crop yields, more developed root system, tillering increase, increase in plant height, bigger leaf blade, less dead basal leaves, stronger tillers, greener leaf color, less fertilizers needed, less seeds needed, more productive tillers, earlier flowering, early grain maturity, less plant verse (lodging), increased shoot growth, plant vigor and early germination. The synergistic effect of the combination was tested in Spodoptera littoralis of cotton leaf discs using Spodoptera littoralis contact assay by measuring percentage of mortality. The result showed that the combination comprised of (10 mg/l (I) and 0.062 mg/l (S)-N-[[2-fluoro-4 -[2-hydroxy-3-(3,4,5-trichlorophenyl)-3-(trifluoromethyl)pyrrolidin-1- yl]phenyl]methyl]cyclopropanecarboxamide exhibited 100% of mortality.","""1"", ""2"", ""3""","The patent text describes a combination of compounds used to control or prevent damage to plants.  It explicitly lists activities as insecticide, nematicide, and acaricide, and mentions control of insects and nematodes. Additionally, it refers to compounds like iprodione, fluindapyr, and flutriafol, which are fungicides. Therefore, the patent falls under all three categories: insecticides, herbicides, and fungicides."
+insecticide,,,"WO 2022175958 A1
    NOVELTY - An isolated bacterial strain or its functional homolog, is new.
    DETAILED DESCRIPTION - An isolated bacterial strain or its functional homolog, is new. The isolated bacterial strain is chosen from (i) strain LAV61269, chosen from (a) a strain (NCIMB 43908), (b) a strain comprising a 16S-rRNA sequence comprising a nucleic acid sequence of SEQ ID NO: 8, and (c) a strain comprising at least one genomic marker comprising a nucleic acid sequence of SEQ ID NOs: 73-75, (ii) strain LAV41249, chosen from (a) a strain (NCIMB 43914), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 1, (c) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 52-55, (iii) strain LAV61293, chosen from (a) a strain (NCIMB 43913), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 11 and SEQ ID NO: 12, and (c) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 79-81, (iv) strain LAV61301, chosen from (a) a strain (NCIMB 43910), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 17, and (c) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 91-92, (v) strain LAV104746, chosen from (a) a strain (NCIMB 43911), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 26, and (c) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 112-113, (vi) strain LAV104743, chosen from (a) a strain (NCIMB 43903), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 21 and SEQ ID NO: 22, and (c) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 104-107, (vii) strain LAV61243, chosen from (a) a strain (NCIMB 43905), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 4, and (c) a strain comprising genomic marker comprising nucleic acid sequence of SEQ ID NOs: 62-64, (viii) strain LAV106494, chosen from (a) a strain (NCIMB 43915), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO:46, and (c) a strain comprising genomic marker comprising nucleic acid sequence of SEQ ID NOs: 144-145, (ix) strain LAV1000771, chosen from (a) a strain (NCIMB 43912), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 49, and (c) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 164-165, (x) strain LAV1000775, chosen from (a) a strain (NCIMB 43904), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 50, and (c) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 166-170, (xi) strain LAV1000731, chosen from (a) a strain (NCIMB 43906), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO:48, and (c) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 159-163, (xii) strain LAV104934, chosen from (a) a strain (NCIMB 43902), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 40, and (c) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 137-139, (xiii) strain LAV104944, chosen from (a) a strain (NCIMB 43907), (b) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 45, and (c) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 140-143, (xiv) strain LAV104753, chosen from (a) a strain comprising a 16S- rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 30, and (b) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 119-122, (xv) strain LAV106564, chosen from (a) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 41 and SEQ ID NO:42, and (b) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 146-148, (xvi) strain LAV100189, chosen from (a) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 20, and (b) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 100-103, and (xvii) strain LAV1000686, chosen from (a) a strain comprising a 16S-rRNA sequence comprising nucleic acid sequence of SEQ ID NO: 47, and (b) a strain comprising at least one genomic marker comprising nucleic acid sequence of SEQ ID NOs: 156-158. Sequences not defined here may be found at ftp://ftp.wipo.int/pub/publishedp cts equences/publication. INDEPENDENT CLAIMS are included for the following: 
       a bacterial formulation comprising several bacteria of isolated bacterial strain or their functional homolog; 
@@ -644,18 +297,8 @@ Patent rights :
    ACTIVITY - Plant Protectant. Test details are described but no results given.
    MECHANISM OF ACTION - None given.
    USE - The isolated bacterial strain or its functional homolog is useful in bacterial formulation, agricultural composition or kit for (i) protecting plant from insect or mite pest, (ii) inhibiting or preventing growth or development of insect or mite pest present in or on plant or its part, (iii) killing plant insect and/or mite pest, and (iv) reducing impact of the harmful effects of insect or mite pest. The insect is of order chosen from Lepidoptera, Coleoptera, or Hemiptera. The insect includes Spodoptera frugiperda , Lygus hesperus , Plutella xylostella , or Chrysodeixis includens . The mite is of order Acari. The mite is Tetranychus urticae (all claimed).
-   ADVANTAGE - The isolated bacterial strain or its functional homolog enhances resistance of plants towards broad spectrum of insect and/or mite pests, and has increased stability.","Status as of : 08.12.2022
-Competitive impact : 5.64
-Technology relevance : 2.012
-Market coverage : 2.803
-Current owners : EVOGENE LTD
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""","The patent describes bacterial strains for protecting plants from insect and mite pests. It lists specific insects (Lepidoptera, Coleoptera, Hemiptera orders) and mites (Acari order) targeted by the strains. The applications include inhibiting pest growth, killing pests, and reducing the impact of pest damage. This clearly points to the invention's use as an insecticide."
-36,WO2022177892,WO2022177892,WPI/2022-A8539W,New substituted haloalkyl sulfonanilide compound used in herbicidal composition and herbicidal mixture for controlling growth of undesired vegetation,FMC CORP,WO2022177892 A1,20220825,,insecticide,,,"WO 2022177892 A1
+   ADVANTAGE - The isolated bacterial strain or its functional homolog enhances resistance of plants towards broad spectrum of insect and/or mite pests, and has increased stability.","""1""","The patent describes bacterial strains for protecting plants from insect and mite pests. It lists specific insects (Lepidoptera, Coleoptera, Hemiptera orders) and mites (Acari order) targeted by the strains. The applications include inhibiting pest growth, killing pests, and reducing the impact of pest damage. This clearly points to the invention's use as an insecticide."
+insecticide,,,"WO 2022177892 A1
    NOVELTY - A substituted haloalkyl sulfonanilide compound (I), is new. 
    DETAILED DESCRIPTION - A substituted haloalkyl sulfonanilide compound of formula (I) or its stereoisomer, N-oxide and salt, is new. 
        R1   = H, 1-7C alkyl, halo, CN, 2-6C alkenyl, 2-6C alkynyl, 3-7C cycloalkyl, 2-4C cyanoalkyl, 1-7C haloalkyl, 2-7C haloalkenyl, 3-7C haloalkynyl, 2-7C alkoxyalkyl, 1-7C alkoxy, 1-5C alkylthio, 2-3C alkoxycarbonyl or 2-7C haloalkoxyalkyl;
@@ -686,212 +329,69 @@ Patent rights :
    ACTIVITY - Herbicide; Fungicide; Insecticide; Nematocide; Antibacterial; Acaricide. Test details are described but no results given. 
    MECHANISM OF ACTION - None given.
    USE - New substituted haloalkyl sulfonanilide compound used in herbicidal composition and herbicidal mixture for controlling growth of undesired vegetation (all claimed) e.g. rice, soybean, sugar beet, maize, potato, wheat, barley, tomato and plantation crops. 
-   ADVANTAGE - None given.","Status as of : 08.12.2022
-Competitive impact : 8.134
-Technology relevance : 2.902
-Market coverage : 2.803
-Current owners : FMC CORP
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : WO
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""2""","The patent text explicitly mentions herbicidal compositions, herbicidal mixtures, and controlling the growth of undesired vegetation. It lists various crops as potential targets, further supporting its classification as a herbicide."
-37,KR2022117608,KR2022117608,WPI/2022-B0051G,"Antibacterial composition useful for closets, shoe and cabinets comprises e.g. two component binder prepared by mixing main agent and curing agent, dispersant and defoamer",E + L LAB CO LTD,KR2022117608 A,20220824,,fungicide,,,"KR 2022117608 A
+   ADVANTAGE - None given.","""2""","The patent text explicitly mentions herbicidal compositions, herbicidal mixtures, and controlling the growth of undesired vegetation. It lists various crops as potential targets, further supporting its classification as a herbicide."
+fungicide,,,"KR 2022117608 A
    NOVELTY - Antibacterial composition comprises: 95-99 wt.% two-component binder, prepared by mixing a main agent and a curing agent, and when the matrix coated with the antibacterial composition comes into contact with moisture in the air, the zinc metal component of 1-5% zinc oxide present on the surface of the matrix is ionized and eluted which has an average particle diameter of 100-150 nm; 10-900 pts. wt. dispersant to which methyl ethyl ketone is added; and 2-3 pts. wt. defoamer based on 100 pts. wt. binder and zinc oxide powder.
    USE - The composition is useful for buildings, closets, shoe and cabinets.
-   ADVANTAGE - The composition: replaces antibacterial products based on synthetic chemicals and is harmless to the human body; has an excellent antibacterial effect, sterilizing, antifungal, deodorizing, and hydrophilic properties with improved safety; can be conveniently applied to products having a curved surface or in a corner where it is difficult to use antibacterial sheet paper or film; prevents the propagation of bacteria through contact with hands or feet by imparting antibacterial and sterilizing power to the object or building and can be used in the form of a spray.","Status as of : 08.12.2022
-Competitive impact : 0.025
-Technology relevance : 0.436
-Market coverage : 0.056
-Current owners : Eqt Partners AB
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""3""",The patent text specifically mentions \
-38,KR2022117602,KR2022117602,WPI/2022-A9929Q,"Herbicide composition useful for controlling crop weeds in cornfield, comprises trifluralin and rimsulfuron",GUANGZHOU BAIYUN SHIJING XINGCHEN LTD,KR2022117602 A,20220824,,herbicide,,,"KR 2022117602 A
+   ADVANTAGE - The composition: replaces antibacterial products based on synthetic chemicals and is harmless to the human body; has an excellent antibacterial effect, sterilizing, antifungal, deodorizing, and hydrophilic properties with improved safety; can be conveniently applied to products having a curved surface or in a corner where it is difficult to use antibacterial sheet paper or film; prevents the propagation of bacteria through contact with hands or feet by imparting antibacterial and sterilizing power to the object or building and can be used in the form of a spray.","""3""",The patent text specifically mentions \
+herbicide,,,"KR 2022117602 A
    NOVELTY - Herbicide composition comprises trifluralin and rimsulfuron in a weight ratio of 8:1-1:1.
    DETAILED DESCRIPTION - An INDEPENDENT CLAIM is also included for herbicide comprising 2-96 wt.% herbicidal composition, and remaining amount of carriers and adjuvants.
    ACTIVITY - Herbicide. Test details are described but no results given. 
    MECHANISM OF ACTION - None given.
    USE - The composition is useful for controlling crop weeds in cornfield. 
-   ADVANTAGE - The herbicide composition has excellent synergistic effect compared to single dose, has greater co-toxicity coefficient of 120, improves stability of aqueous suspension concentrate, has excellent broad weeding spectrum and high efficiency, and is economical.","Status as of : 08.12.2022
-Competitive impact : 0.056
-Technology relevance : 0.995
-Market coverage : 0.056
-Current owners : GUANGZHOU BAIYUN SHIJING XINGCHEN
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""2""",The patent explicitly states that the invention is a 'Herbicide composition' and describes its use for controlling crop weeds in a cornfield.
-39,KR2022117612,KR2022117612,WPI/2022-A9927L,"Composition useful for attracting bee mites and controlling bee mites, comprises herbal extract",BIOFORCE INC,KR2022117612 A,20220824,,insecticide,,,"KR 2022117612 A
+   ADVANTAGE - The herbicide composition has excellent synergistic effect compared to single dose, has greater co-toxicity coefficient of 120, improves stability of aqueous suspension concentrate, has excellent broad weeding spectrum and high efficiency, and is economical.","""2""",The patent explicitly states that the invention is a 'Herbicide composition' and describes its use for controlling crop weeds in a cornfield.
+insecticide,,,"KR 2022117612 A
    NOVELTY - Composition comprises herbal extract or it's fraction. 
    ACTIVITY - Acaricide. Test details are described but no results given. 
    MECHANISM OF ACTION - None given.
    USE - The composition is useful for attracting bee mites and controlling bee mites (all claimed).
-   ADVANTAGE - The composition can be used as more efficient bee mite control material, and is economical.","Status as of : 08.12.2022
-Competitive impact : 0.056
-Technology relevance : 0.995
-Market coverage : 0.056
-Current owners : BIO FORCE
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""","The patent describes a composition for attracting and controlling bee mites, which are pests of honeybees. This falls under the category of insecticides."
-40,KR2022117762,KR2022117762,WPI/2022-A9926Q,"Composition useful as e.g. suspension, emulsion, aqueous powder and granular wettable powder for controlling pine wood nematodes by treating plants and soil with composition, comprises Chelidonium majus var. asiaticum extract",NAT INST FOREST SCI,KR2022117762 A,20220824,,insecticide,,,"KR 2022117762 A
+   ADVANTAGE - The composition can be used as more efficient bee mite control material, and is economical.","""1""","The patent describes a composition for attracting and controlling bee mites, which are pests of honeybees. This falls under the category of insecticides."
+insecticide,,,"KR 2022117762 A
    NOVELTY - Composition comprises Chelidonium majus var. asiaticum extract.
    ACTIVITY - Insecticide. Test details are described but no results given. 
    MECHANISM OF ACTION - None given.
    USE - The composition is useful as suspension, emulsion, solution, aqueous powder, granular wettable powder, granule, powder, tablet and pack for controlling pine wood nematodes by treating plants and soil with composition (all claimed).
-   ADVANTAGE - The composition is concentration-dependent in killing pine wood nematodes, and can be mixed with spreading agent, penetrant and surfactant.","Status as of : 08.12.2022
-Competitive impact : 0.066
-Technology relevance : 1.165
-Market coverage : 0.056
-Current owners : KOREA FOREST SERVICE
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""",The patent explicitly states that the composition is an insecticide and describes its use for controlling pine wood nematodes.
-41,KR2022117740,KR2022117740,WPI/2022-A9926D,New Beauveria bassiana strain BG2002 useful in agent for controlling Alphitobius diaperinus,BIOGENOCI CO LTD,KR2022117740 A,20220824,,insecticide,,,"KR 2022117740 A
+   ADVANTAGE - The composition is concentration-dependent in killing pine wood nematodes, and can be mixed with spreading agent, penetrant and surfactant.","""1""",The patent explicitly states that the composition is an insecticide and describes its use for controlling pine wood nematodes.
+insecticide,,,"KR 2022117740 A
    NOVELTY - A Beauveria bassiana strain BG2002, is new. 
    DETAILED DESCRIPTION - An INDEPENDENT CLAIM is included for an agent, which comprises B.bassiana (strain BG2002) or its spores. 
    USE - The B.bassiana strain is useful in agent for controlling Alphitobius diaperinus (all claimed).
-   ADVANTAGE - The strain has pathogenicity against both adult and larvae of A.diaperinus .","Status as of : 08.12.2022
-Competitive impact : 0.056
-Technology relevance : 0.993
-Market coverage : 0.056
-Current owners : BIOGENOCI CO LTD
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : KR
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""","The patent describes a Beauveria bassiana strain (BG2002) and its use in an agent for controlling Alphitobius diaperinus, which is an insect pest."
-42,CN114931089,CN114931089,WPI/2022-B6010B,"Performing hydroponics planting method of Cycas debaoensis seedlings involves lifting Cycas debaoensis seedlings from culture medium, cleaning residual matrix or soil at roots with flowing clear water, cutting out rotten roots, diseased and weak roots and broken roots, and flattening cut openings",GUANGXI TROPICAL GARDEN PLANT RES CENT,CN114931089 A,20220823,,fungicide,,,"CN 114931089 A
+   ADVANTAGE - The strain has pathogenicity against both adult and larvae of A.diaperinus .","""1""","The patent describes a Beauveria bassiana strain (BG2002) and its use in an agent for controlling Alphitobius diaperinus, which is an insect pest."
+fungicide,,,"CN 114931089 A
    NOVELTY - Performing hydroponics planting method of Cycas debaoensis seedlings involves performing root processing treatment, plant fixation, hydroponics domestication and maintenance management, where pebbles are fixed in planting basket and placed in a container after the Cycas debaoensis seedlings are trimmed and the root system of bactericides are soaked, clear water or culture solution is added, the growth condition of the plants is observed in time, and the liquid in the container is replaced every week. The root processing treatment involves lifting the Cycas debaoensis seedlings from culture medium, cleaning residual matrix or soil at the roots with flowing clear water, cutting out rotten roots, diseased and weak roots and broken roots, flattening the cut openings, and soaking the roots with a bactericide to obtain sterilized plants for later use. 
    DETAILED DESCRIPTION - Performing hydroponics planting method of Cycas debaoensis seedlings involves performing root processing treatment, plant fixation, hydroponics domestication and maintenance management, where pebbles are fixed in planting basket and placed in a container after the Cycas debaoensis seedlings are trimmed and the root system of bactericides are soaked, clear water or culture solution is added, the growth condition of the plants is observed in time, and the liquid in the container is replaced every week. The root processing treatment involves lifting the Cycas debaoensis seedlings from culture medium, cleaning residual matrix or soil at the roots with flowing clear water, cutting out rotten roots, diseased and weak roots and broken roots, flattening the cut openings, and soaking the roots with a bactericide to obtain sterilized plants for later use. The step of plant fixation involves fixing plants by pebbles, filling a layer with pebbles at the bottom of the planting basket before fixing to prevent original roots from directly penetrating out of bottom of planting basket, placing plants which are trimmed and sterilized into planting basket, and adding the pebbles continuously to fix the plants in the planting basket. The hydroponics domestication involves fixing the planting basket fixedly provided with the plants into container, adding clear water or culture solution into planting basket, dripping the liquid into container after the liquid flows through pebbles, and stopping adding the liquid until the liquid in container is level to bottom of planting basket. The maintenance management involves observing growth of the plants at the right time and changing liquid in the container every week. 
    USE - Method for performing hydroponics planting method of Cycas debaoensis seedlings is used for plant cultivation, ornamental, teaching and scientific research.
-   ADVANTAGE - The method enables to break through the traditional concepts that Cycas plants are drought-resistant, water logging-resistant and the root systems are not water-resistant to soaking, successfully applies the water culture technology to the cultivation of Cycas debaoensis seedlings and ensures the survival rate of the Cycas debaoensis seedlings. The root system of the hydroponic Cycas debaoensis seedling is extended into water, the growth and form of the root system is clearly and visually observed, hydroponic Cycas debaoensis seedling is a good science popularization teaching material, and complete root system is easy to obtain, is used for scientific research, lays a foundation for protecting biological diversity, and has good ecological benefit and social benefit.","Status as of : 08.12.2022
-Competitive impact : 0.471
-Technology relevance : 0.995
-Market coverage : 0.473
-Current owners : GUANGXI SUBTROPICAL GARDEN PLANT RES CENTER
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : CN
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-",error,error in response parsing after 3 retries
-43,CN217251008,CN217251008,WPI/2022-B5811G,"Dual-purpose vehicle for water washing and herbicide automatic spraying of railway contact, has vehicle body that is set on railway surface and axially moves along rail surface",ANKANG POWER SUPPLY SECTION CHINA RAILWAY XIAN GROUP CO LTD,CN217251008 U,20220823,,herbicide,,,"CN 217251008 U
+   ADVANTAGE - The method enables to break through the traditional concepts that Cycas plants are drought-resistant, water logging-resistant and the root systems are not water-resistant to soaking, successfully applies the water culture technology to the cultivation of Cycas debaoensis seedlings and ensures the survival rate of the Cycas debaoensis seedlings. The root system of the hydroponic Cycas debaoensis seedling is extended into water, the growth and form of the root system is clearly and visually observed, hydroponic Cycas debaoensis seedling is a good science popularization teaching material, and complete root system is easy to obtain, is used for scientific research, lays a foundation for protecting biological diversity, and has good ecological benefit and social benefit.",error,error in response parsing after 3 retries
+herbicide,,,"CN 217251008 U
    NOVELTY - The utility model claims an automatic spraying dual-purpose vehicle for water washing and herbicide of railway contact comprising a vehicle body and a nozzle set on the vehicle body and connected with the vehicle body; the vehicle body is set on the railway surface and moves along the axial direction of the rail surface, the height distance of the lowest end of the nozzle to the rail surface is not less than 350mm, the distance between the nozzle and the central axis of the railway is not more 1675mm; the nozzle of the nozzle railway track surface two sides of the direction, the nozzle and the ground form an included angle of 45 degrees, the plane formed by the spray sprayed by the nozzle forms an included angle of 90 degrees with the ground. The utility model has two functions of contact washing and herbicide automatic spraying, capable of independently working, improving the utilization rate of the water washing vehicle; simple operation, high weeding efficiency, short time, low cost and small labour intensity.
-   DETAILED DESCRIPTION - An INDEPENDENT CLAIM is included for the automatic spraying dual-purpose vehicle for water washing and herbicide of railway network insulator contact to claim.","Status as of : 08.12.2022
-Competitive impact : 
-Technology relevance : 
-Market coverage : 0.676
-Current owners : ANKANG POWER SUPPLY SECTION OF CHINA RAILWAY XIAN BUREAU GROUP
-Patent rights : 
-    Active + Granted : CN
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""2""",The patent describes a vehicle designed for both water washing and herbicide spraying on railway contact insulators. The explicit mention of 'herbicide' directly classifies this invention under the herbicides category.
-44,CN114931070,CN114931070,WPI/2022-B60248,"Cultivating Achyranthes sichuanensis at high altitude, comprises e.g. preparing site and picking seedlings, performing nursery seedlings for Achyranthes sichuanensis, soaking in lime sulfur mixture solution, replenishing seedlings, fertilizing and cultivating soil and excavating",HANYUAN RUNYU CHINESE MEDICINAL MATERIAL,CN114931070 A,20220823,,insecticide,,,"CN 114931070 A
+   DETAILED DESCRIPTION - An INDEPENDENT CLAIM is included for the automatic spraying dual-purpose vehicle for water washing and herbicide of railway network insulator contact to claim.","""2""",The patent describes a vehicle designed for both water washing and herbicide spraying on railway contact insulators. The explicit mention of 'herbicide' directly classifies this invention under the herbicides category.
+insecticide,,,"CN 114931070 A
    NOVELTY - Cultivating Achyranthes sichuanensis at high altitude, comprises e.g. (1) preparing site and picking seedlings after the Achyranthes sichuanensis seeds are mature, drying, rubbing out the seeds for screening and storage, choosing a place with fertile, loosening soil, plenty of sunshine, and performing nursery seedlings for Achyranthes sichuanensis , mixing, evenly spreading into the nursery bed for sowing, (2) selecting high mountains and sunny slopes with an altitude of 1800-2500 m, (3) soaking the Achyranthes sichuanensis seedlings in 900-1100 times lime sulfur mixture solution for 8-12 minutes, (4) replenishing the seedlings and removing the seedlings until the Achyranthe sichuanensis seedlings, fertilizing and cultivating soil Achyranthes sichuanensis seedlings to continue to grow, and (5) excavating after Achyranthes sichuanensis continues to grow until the end of October of the third year. 
    DETAILED DESCRIPTION - Cultivating Achyranthes sichuanensis at high altitude, comprises (1) preparing site and picking seedlings after the Achyranthes sichuanensis seeds are mature, drying, rubbing out the seeds for screening and storage, choosing a place with fertile, loosening soil, plenty of sunshine, and performing nursery seedlings for Achyranthes sichuanensis , mixing, evenly spreading into the nursery bed for sowing and raising of Achyranthes sichuanensis , and the amount of Achyranthes sichuanensis seeds per acre is 3-5 kg, sowing the seeds, covering the floating soil, and waiting for the Achyranthes sichuanensis seedlings to continue to grow, laying a layer of film for heat preservation and moisturizing on the surface of the nursery, (2) selecting high mountains and sunny slopes with an altitude of 1800-2500 m, and the soil is deep, loose, fertile, rich in humus, and well-drained yellow soil or brown loam soil as the transplanting seedlings, in July of the year before the seedlings of Achyranthes officinalis are planted, according to the proportion of 180-220 kg/mu, sprinkling slaked lime, and deep plowing and drying in August, transplanting Achyranthes sichuanensis seedlings in February of that year, applying enough oil and dry base fertilizer at 90- 110 kg/mu, and leaving them vacant, transplanting Achyranthes sichuan seedlings, (3) fixed nest transplanting is in the middle and late March of the second year of Achyranthes sichuanensis sowing, taking out the Achyranthes sichuanensis seedlings in the nursery ground, and the Achyranthes sichuanensis seedlings of rhizome diameter ≥ 0.4 cm, selecting length of 30-40 cm transplant before transplanting, soaking the Achyranthes sichuanensis seedlings in 900-1100 times lime sulfur mixture solution for 8-12 minutes, taking out and air-drying, on the transplanting seedling ground, excavating the nests for transplanting Achyranthes sichuanensis , and transplanting the Achyranthes sichuanensis seedlings in each nest, (4) replenishing the seedlings and removing the seedlings until the Achyranthe sichuanensis seedlings, observing the emergence state of Achyranthe sichuanensis during the period, replenishing the seedlings in time at the missing seedlings, and removing the seedlings at the redundant seedlings to ensure the neatness of the Achyranthe sichuanensis seedlings in the nests consistent, (5) fertilizing and cultivating soil Achyranthes sichuanensis seedlings to continue to grow, in the year of Achyranthes sichuanensis transplanting and in June and August of the second year after the transplanting of Achyranthes sichuanensis , performing the intertillage and weeding and topdressing of Achyranthes sichuanensis, when topdressing, fertilizing along the nest, in June of the current year and June of the second year after transplanting Achyranthes sichuanensis , adding 48-52 kg/mu fertilizer composition, transplanting at the end of August of the year after Achyranthes sichuanensis , adding phosphate fertilizer and potash fertilizer at 48-52 kg/mu, respectively, and at the end of August of the second year after Achyranthes sichuanensis is transplanted, adding phosphate fertilizer and potassium fertilizer at 48-52 kg/mu, transplanting in October of the year when Achyranthes sichuanensis , covering the roots of Achyranthes sichuanensis with soil, and cultivating the soil to prevent freezing to prevent Achyranthes sichuanensis from freezing in winter, and ensuring the normal wintering of Achyranthes sichuanensis , ensuring the normal growth of underground rhizomes, (6) the topping of flower buds is in the year of Achyranthes sichuanensis transplanting and from June to July of the second year, immediately removing the plant when flower buds are observed, and (7) excavating after Achyranthes sichuanensis continues to grow until the end of October of the third year after transplanting, and digging of Achyranthes sichuanensis .
    ACTIVITY - Fertilizer.
    USE - The method for cultivating Achyranthes sichuanensis with high altitude for expelling blood stasis and dredging menstrual flow, dredging joint, promoting urination and treating strangussis. 
-   ADVANTAGE - The method for cultivating Achyranthes sichuanensis at high altitude provided by the invention can fully guarantee the nutrition supply of Achyranthes sichuanensis by planting in fixed nests, and the excavation period can be clearly shortened to 3 years.","Status as of : 08.12.2022
-Competitive impact : 0.471
-Technology relevance : 0.995
-Market coverage : 0.473
-Current owners : 
-Patent rights : 
-    Active + Granted : 
-    Active + Not Granted : CN
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-",error,error in response parsing after 3 retries
-45,CN217242306,CN217242306,WPI/2022-B1895M,"Device for preventing and treating plant diseases and insect pests of yellow tea, has sprayer supporting hanging mechanism that is set on front side wall of mixing box, and sprayer is clamped in sprayer support hanging mechanism",,CN217242306 U,20220823,,insecticide,,,"CN 217242306 U
-   NOVELTY - The utility model claims a device for preventing and treating plant diseases and insect pests of yellow tea, comprising a driving carriage, a moving wheel, a pushing handle, a mixing box, a stirring and mixing assembly, a vibration mixing component, a spraying pump, a sprayer and a sprayer supporting hanging mechanism, the moving wheel is set on the bottom wall of the driving carriage, the pushing handle is set at the rear side of the driving carriage, the vibration mixing component is set in the driving carriage, the mixing box is set on the vibration mixing component, the stirring and mixing component is set in the mixing box, the mixing box is provided with a feeding port, the spraying pump is set on the vibration mixing component, the spraying pump is provided with a liquid inlet pipe and a liquid outlet pipe, the liquid inlet pipe is set in the mixing box, the sprayer is connected with the liquid outlet pipe, the sprayer supporting hanging mechanism is set on the front side wall of the mixing box, the sprayer is clamped in the spraying device supporting hanging mechanism. The utility model relates to the technical field of yellow tea planting, specifically claims a yellow tea plant diseases and insect pests preventing device capable of improving fertilizer or pesticide and water by circumferential stirring and improving the mixing degree of the pesticide and water uniformly.","Status as of : 08.12.2022
-Competitive impact : 
-Technology relevance : 
-Market coverage : 0.676
-Current owners : 
-Patent rights : 
-    Active + Granted : CN
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1"", ""3""",The patent describes a device for preventing and treating plant diseases and insect pests of yellow tea. This indicates it relates to both insecticides and fungicides.
-46,CN217242383,CN217242383,WPI/2022-B18339,"Disk-type mosquito-repellent incense sheet for being combined randomly, has first volute-shaped and second vortex-shaped incense sheets that are provided with multiple supporting bumps",YUANLONG FUJIAN DAILY ARTICLES CO LTD,CN217242383 U,20220823,,insecticide,,,"CN 217242383 U
-   NOVELTY - The utility model claims a disc-type mosquito-repellent incense sheet capable of being combined randomly, comprising a first vortex-shaped mosquito-repellent incense sheet and a second vortex-shaped mosquito-repellent incense sheet, wherein the first vortex-shaped mosquito- repellent incense sheet and the second vortex-shaped mosquito-repellent incense sheet are mutually attached, the starting end of the first vortex- shaped mosquito-repellent incense sheet and the second vortex-shaped mosquito-repellent incense sheet is respectively with a first splicing piece and a second splicing piece, the first splicing piece is matched with the second splicing piece. The utility model claims a disc-type mosquito incense sheet capable of being combined randomly, according to the requirement of the scene, the first splicing piece and the second splicing piece are spliced to connect the first vortex mosquito incense sheet and the second vortex mosquito incense sheet together, so as to increase the continuous combustion time of the mosquito incense, and the supporting bump at the bottom supports the first volute-shaped mosquito-repellent incense sheet and the second vortex-shaped mosquito-repellent incense sheet, the bottom of the first vortex-shaped mosquito-repellent incense sheet and the second vortex-shaped mosquito-repellent incense sheet forms a gap with the ground to circulate air, it is convenient for the first vortex-shaped mosquito-repellent incense sheet and the second vortex-shaped mosquito- repellent incense sheet to burn without the other set up","Status as of : 08.12.2022
-Competitive impact : 
-Technology relevance : 
-Market coverage : 0.676
-Current owners : YUANLONG FUJIAN COMMODITY
-Patent rights : 
-    Active + Granted : CN
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""","The patent text describes a mosquito-repellent incense sheet, clearly indicating its purpose is to repel insects, specifically mosquitoes."
-47,CN217242311,CN217242311,WPI/2022-B1545A,"Agricultural planting and spraying device for preventing and treating diseases and insect pests, has medicine spraying total liquid pipe whose left side is provided with shunt connecting pipe equipped with medicine sprayer",,CN217242311 U,20220823,,insecticide,,,"CN 217242311 U
-   NOVELTY - The utility model relates to agricultural planting spraying technology field, especially claims an agricultural planting spraying device with adjustable height, comprising a device main body, the left side of the bottom end of the device main body is provided with a universal wheel, the right side of the front surface and the back surface of the device main body is equipped with a moving wheel, the right side of the device main body is provided with a charging interface, the inner part of the device main body is provided with a storage battery group, the right side of the top part of the device main body is provided with a medicine storage box, the inner part of the device main body through the medicine storage box is provided with a driving motor, the upper side of the inner part of the medicine storage box is provided with a bearing bracket, the whole device is simple in structure, convenient to flexibly move to the needed agricultural planting spraying position, at the same time, it is convenient for the agricultural planting medicine liquid with different spraying ratio concentration for diluting and stirring and mixing, and convenient for lifting/reducing according to the needed spraying height, The double-head high-efficiency spraying medicine liquid has high stability and practicability, and has a certain popularization value.","Status as of : 08.12.2022
-Competitive impact : 
-Technology relevance : 
-Market coverage : 0.676
-Current owners : 
-Patent rights : 
-    Active + Granted : CN
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""0""","The patent describes an agricultural spraying device focused on its design and functionality (adjustable height, wheels, battery, medicine storage, etc.). It does not mention specific chemical compositions or target organisms (insects, weeds, fungi) that would classify it as an insecticide, herbicide, or fungicide."
-48,CN217248665,CN217248665,WPI/2022-B1021Y,"Powder pesticide automatic feeding device for preventing and treating plant diseases and insect pests, has speed reducing mechanism connected with reciprocating mechanism that is connected with material stopping mechanism",HUAZHI HEBEI BIOTECHNOLOGY CO LTD,CN217248665 U,20220823,,insecticide,,,"CN 217248665 U
-   NOVELTY - The utility model belongs to the technical field of automatic feeding device, especially a powder pesticide automatic feeding device, aiming at the existing powder pesticide generally has no automatic feeding device, it needs to working staff the bag or bottled powder mixed in water stirring, and the stirring effect is bad, multiple needs manual stirring, increasing the working difficulty, it claims the following solution, comprising a mixing box, the left side of the mixing box is provided with a discharge pipe, the bottom inner wall of the mixing box is obliquely arranged, the top part of the mixing box is provided with a feeding port, the outer side of the mixing box is provided with a controller, the top part box is provided with a storage box, the top part of the storage box is provided with a feeding pipe, the top part box is provided with a fixing shell, the fixing shell is provided with a servo motor The utility model has simple structure, convenient use, it can realize automatic feeding, improves the mixing effect of the powder and water, can avoid manual mixing, reduces the working difficulty.","Status as of : 08.12.2022
-Competitive impact : 
-Technology relevance : 
-Market coverage : 0.676
-Current owners : HUAZHI HEBEI BIOLOGICAL TECH
-Patent rights : 
-    Active + Granted : CN
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1""",The patent describes a device for automatic feeding of 'powder pesticide'.  This clearly falls under the category of insecticides.
-49,US11420218,US11420218,WPI/2022-A7169E,"Spray nozzle for dispersing e.g. insecticide for agricultural application, has elastomer sized to be received within channel such that channel extends from first point to end point on peripheral edge when emplaced within channel for creating elastomeric seal between body and head along channel",UDOR USA INC,US11420218 B1,20220823,,insecticide,,,"US 11420218 B1
+   ADVANTAGE - The method for cultivating Achyranthes sichuanensis at high altitude provided by the invention can fully guarantee the nutrition supply of Achyranthes sichuanensis by planting in fixed nests, and the excavation period can be clearly shortened to 3 years.",error,error in response parsing after 3 retries
+insecticide,,,"CN 217242306 U
+   NOVELTY - The utility model claims a device for preventing and treating plant diseases and insect pests of yellow tea, comprising a driving carriage, a moving wheel, a pushing handle, a mixing box, a stirring and mixing assembly, a vibration mixing component, a spraying pump, a sprayer and a sprayer supporting hanging mechanism, the moving wheel is set on the bottom wall of the driving carriage, the pushing handle is set at the rear side of the driving carriage, the vibration mixing component is set in the driving carriage, the mixing box is set on the vibration mixing component, the stirring and mixing component is set in the mixing box, the mixing box is provided with a feeding port, the spraying pump is set on the vibration mixing component, the spraying pump is provided with a liquid inlet pipe and a liquid outlet pipe, the liquid inlet pipe is set in the mixing box, the sprayer is connected with the liquid outlet pipe, the sprayer supporting hanging mechanism is set on the front side wall of the mixing box, the sprayer is clamped in the spraying device supporting hanging mechanism. The utility model relates to the technical field of yellow tea planting, specifically claims a yellow tea plant diseases and insect pests preventing device capable of improving fertilizer or pesticide and water by circumferential stirring and improving the mixing degree of the pesticide and water uniformly.","""1"", ""3""",The patent describes a device for preventing and treating plant diseases and insect pests of yellow tea. This indicates it relates to both insecticides and fungicides.
+insecticide,,,"CN 217242383 U
+   NOVELTY - The utility model claims a disc-type mosquito-repellent incense sheet capable of being combined randomly, comprising a first vortex-shaped mosquito-repellent incense sheet and a second vortex-shaped mosquito-repellent incense sheet, wherein the first vortex-shaped mosquito- repellent incense sheet and the second vortex-shaped mosquito-repellent incense sheet are mutually attached, the starting end of the first vortex- shaped mosquito-repellent incense sheet and the second vortex-shaped mosquito-repellent incense sheet is respectively with a first splicing piece and a second splicing piece, the first splicing piece is matched with the second splicing piece. The utility model claims a disc-type mosquito incense sheet capable of being combined randomly, according to the requirement of the scene, the first splicing piece and the second splicing piece are spliced to connect the first vortex mosquito incense sheet and the second vortex mosquito incense sheet together, so as to increase the continuous combustion time of the mosquito incense, and the supporting bump at the bottom supports the first volute-shaped mosquito-repellent incense sheet and the second vortex-shaped mosquito-repellent incense sheet, the bottom of the first vortex-shaped mosquito-repellent incense sheet and the second vortex-shaped mosquito-repellent incense sheet forms a gap with the ground to circulate air, it is convenient for the first vortex-shaped mosquito-repellent incense sheet and the second vortex-shaped mosquito- repellent incense sheet to burn without the other set up","""1""","The patent text describes a mosquito-repellent incense sheet, clearly indicating its purpose is to repel insects, specifically mosquitoes."
+insecticide,,,"CN 217242311 U
+   NOVELTY - The utility model relates to agricultural planting spraying technology field, especially claims an agricultural planting spraying device with adjustable height, comprising a device main body, the left side of the bottom end of the device main body is provided with a universal wheel, the right side of the front surface and the back surface of the device main body is equipped with a moving wheel, the right side of the device main body is provided with a charging interface, the inner part of the device main body is provided with a storage battery group, the right side of the top part of the device main body is provided with a medicine storage box, the inner part of the device main body through the medicine storage box is provided with a driving motor, the upper side of the inner part of the medicine storage box is provided with a bearing bracket, the whole device is simple in structure, convenient to flexibly move to the needed agricultural planting spraying position, at the same time, it is convenient for the agricultural planting medicine liquid with different spraying ratio concentration for diluting and stirring and mixing, and convenient for lifting/reducing according to the needed spraying height, The double-head high-efficiency spraying medicine liquid has high stability and practicability, and has a certain popularization value.","""0""","The patent describes an agricultural spraying device focused on its design and functionality (adjustable height, wheels, battery, medicine storage, etc.). It does not mention specific chemical compositions or target organisms (insects, weeds, fungi) that would classify it as an insecticide, herbicide, or fungicide."
+insecticide,,,"CN 217248665 U
+   NOVELTY - The utility model belongs to the technical field of automatic feeding device, especially a powder pesticide automatic feeding device, aiming at the existing powder pesticide generally has no automatic feeding device, it needs to working staff the bag or bottled powder mixed in water stirring, and the stirring effect is bad, multiple needs manual stirring, increasing the working difficulty, it claims the following solution, comprising a mixing box, the left side of the mixing box is provided with a discharge pipe, the bottom inner wall of the mixing box is obliquely arranged, the top part of the mixing box is provided with a feeding port, the outer side of the mixing box is provided with a controller, the top part box is provided with a storage box, the top part of the storage box is provided with a feeding pipe, the top part box is provided with a fixing shell, the fixing shell is provided with a servo motor The utility model has simple structure, convenient use, it can realize automatic feeding, improves the mixing effect of the powder and water, can avoid manual mixing, reduces the working difficulty.","""1""",The patent describes a device for automatic feeding of 'powder pesticide'.  This clearly falls under the category of insecticides.
+insecticide,,,"US 11420218 B1
    NOVELTY - The nozzle has a channel (132) formed in a head planar contact surface (21) starting from a first point on a peripheral edge and extending to an end point on the peripheral edge for dividing the head planar contact surface with the channel such that the channel divides the peripheral edge in two places. An elastomer (134) is sized to be received within the channel such that the channel extends from the first point to the end point on the peripheral edge when emplaced within the channel for creating an elastomeric seal between a nozzle body and a nozzle head along the channel. 
    USE - Spray nozzle for dispersing fluids for agricultural applications. Uses include but are not limited to fertilizer, insecticide and water. 
    ADVANTAGE - The nozzle has superior dispersion characteristics, and can evenly and accurately distribute the fluid over a nozzle's spray area. 
    DESCRIPTION OF DRAWINGS - The drawing shows a top view of a spray head with a sealant recess and an O-ring.
      21- Head planar contact surface
      132- Channel
-     134- Elastomer","Status as of : 08.12.2022
-Competitive impact : 0.994
-Technology relevance : 0.994
-Market coverage : 1
-Current owners : UDOR U INC
-Patent rights : 
-    Active + Granted : US
-    Active + Not Granted : 
-    Not Active + Granted : 
-    Not Active + Not Granted : 
-","""1"", ""2""","The patent text describes a spray nozzle for agricultural applications, which can be used for dispensing insecticides and fertilizers.  Therefore, it falls under both the insecticide and herbicide categories."
-50,IN202211044990,IN202211044990,WPI/2022-A99243,"Composition used as antidiabetic, antifungal, antihyperlipidemic and antiulcer agents, and to fight opportunistic infections in people with HIV and severe fungal infection, comprises fluconazole","JAIN A
-JOSHI S
-SIRVI G
-TRIVEDI D",IN202211044990 A,20220819,,fungicide,,,"IN 202211044990 A
+     134- Elastomer","""1"", ""2""","The patent text describes a spray nozzle for agricultural applications, which can be used for dispensing insecticides and fertilizers.  Therefore, it falls under both the insecticide and herbicide categories."
+fungicide,,,"IN 202211044990 A
    NOVELTY - Composition comprises fluconazole (I). 
    DETAILED DESCRIPTION - Composition comprises fluconazole of formula (I). 
    ACTIVITY - Antidiabetic; Fungicide; Antilipemic; Antiulcer; Anti-HIV. 
    MECHANISM OF ACTION - None given.
    USE - The composition is useful: as antidiabetic, antifungal, antihyperlipidemic (all claimed) and antiulcer agents; and for fighting opportunistic infections in people with HIV and severe fungal infection. No biological data given.
-   ADVANTAGE - The composition: contains compounds that have different physicochemical properties, which can be ash values, moisture content and extractive values; overcomes all the side effects of the other fungal drugs like ketoconazole, clotrimazole, and miconazole; and provides excellent bioavailability, tolerability, and side-effect profile.",,"""3""","The patent text explicitly states that the composition has antifungal activity and lists fluconazole, a known fungicide, as the active ingredient. It also mentions uses as an antifungal agent and for fighting opportunistic fungal infections."
+   ADVANTAGE - The composition: contains compounds that have different physicochemical properties, which can be ash values, moisture content and extractive values; overcomes all the side effects of the other fungal drugs like ketoconazole, clotrimazole, and miconazole; and provides excellent bioavailability, tolerability, and side-effect profile.","""3""","The patent text explicitly states that the composition has antifungal activity and lists fluconazole, a known fungicide, as the active ingredient. It also mentions uses as an antifungal agent and for fighting opportunistic fungal infections."
